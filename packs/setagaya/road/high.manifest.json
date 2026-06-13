@@ -1,0 +1,46 @@
+{
+  "schema": "geo-area-pack/1",
+  "ward": "setagaya",
+  "layer": "road",
+  "detail": "high",
+  "source": {
+    "name": "OpenStreetMap",
+    "license": "ODbL-1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "input_file": "kanto-latest.osm.pbf",
+    "input_provider": "Geofabrik (asia/japan/kanto)",
+    "input_date": "2026-06-12"
+  },
+  "pipeline": {
+    "simplify": {
+      "method": "weighted Visvalingam (mapshaper default), keep-shapes, planar",
+      "percentage": "30%"
+    },
+    "quantization": 1000000,
+    "format": "topojson",
+    "compression": {
+      "codec": "brotli",
+      "quality": 11
+    }
+  },
+  "tools": {
+    "osmium": "1.16.0",
+    "mapshaper": "0.7.22",
+    "osmtogeojson": "3.0.0-beta.5",
+    "@xmldom/xmldom": "0.9.10"
+  },
+  "artifact": {
+    "file": "high.1ba46321328f.topo.json.br",
+    "file_raw": "high.topo.json",
+    "bytes_topojson": 3621895,
+    "bytes_brotli": 626931,
+    "hash_algo": "sha256:12",
+    "hash_topojson": "6d83dd9d784a",
+    "hash_brotli": "1ba46321328f"
+  },
+  "attribution_lines": [
+    "© OpenStreetMap contributors"
+  ],
+  "requires_share_alike": false,
+  "generated_at": "2026-06-13T18:11:05.739Z"
+}

@@ -1,0 +1,441 @@
+{
+  "schema": "geo-area-index/1",
+  "dataset": "tokyo-23-ward-area-packs",
+  "description": "Free ODbL geo area packs (TopoJSON) for Tokyo's 23 special wards, derived from OpenStreetMap.",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors",
+  "format": "topojson",
+  "url_pattern": "https://cdn.jsdelivr.net/gh/hwcharlton/geo-data@v1.0.0/packs/{ward}/{layer}/{tier}.topo.json",
+  "manifest_pattern": "https://cdn.jsdelivr.net/gh/hwcharlton/geo-data@v1.0.0/packs/{ward}/{layer}/{tier}.manifest.json",
+  "tiers": [
+    "high",
+    "med",
+    "low"
+  ],
+  "wards": [
+    "adachi",
+    "arakawa",
+    "bunkyo",
+    "chiyoda",
+    "chuo",
+    "edogawa",
+    "itabashi",
+    "katsushika",
+    "kita",
+    "koto",
+    "meguro",
+    "minato",
+    "nakano",
+    "nerima",
+    "ota",
+    "setagaya",
+    "shibuya",
+    "shinagawa",
+    "shinjuku",
+    "suginami",
+    "sumida",
+    "taito",
+    "tokyo-23",
+    "toshima"
+  ],
+  "catalog": {
+    "adachi": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "arakawa": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "bunkyo": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "chiyoda": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "chuo": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "edogawa": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "itabashi": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "katsushika": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "kita": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "koto": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "meguro": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "minato": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "nakano": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "nerima": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "ota": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "setagaya": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "shibuya": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "shinagawa": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "shinjuku": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "suginami": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "sumida": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "taito": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "tokyo-23": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ]
+    },
+    "toshima": {
+      "admin": [
+        "high",
+        "med",
+        "low"
+      ],
+      "road": [
+        "high",
+        "med",
+        "low"
+      ],
+      "water": [
+        "high",
+        "med",
+        "low"
+      ]
+    }
+  }
+}
