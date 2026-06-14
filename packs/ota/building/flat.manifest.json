@@ -1,0 +1,46 @@
+{
+  "schema": "geo-area-pack/1",
+  "ward": "ota",
+  "layer": "building",
+  "detail": "flat",
+  "source": {
+    "name": "OpenStreetMap",
+    "license": "ODbL-1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "input_file": "kanto-latest.osm.pbf",
+    "input_provider": "Geofabrik (asia/japan/kanto)",
+    "input_date": "2026-06-12"
+  },
+  "pipeline": {
+    "simplify": {
+      "method": "weighted Visvalingam (mapshaper default), keep-shapes, planar",
+      "percentage": "100%"
+    },
+    "quantization": 100000,
+    "format": "topojson",
+    "compression": {
+      "codec": "brotli",
+      "quality": 11
+    }
+  },
+  "tools": {
+    "osmium": "1.16.0",
+    "mapshaper": "0.7.22",
+    "osmtogeojson": "3.0.0-beta.5",
+    "@xmldom/xmldom": "0.9.10"
+  },
+  "artifact": {
+    "file": "flat.a0d941e3c71e.topo.json.br",
+    "file_raw": "flat.topo.json",
+    "bytes_topojson": 23777836,
+    "bytes_brotli": 2855365,
+    "hash_algo": "sha256:12",
+    "hash_topojson": "02eeda52e9ba",
+    "hash_brotli": "a0d941e3c71e"
+  },
+  "attribution_lines": [
+    "© OpenStreetMap contributors"
+  ],
+  "requires_share_alike": false,
+  "generated_at": "2026-06-14T18:13:01.123Z"
+}

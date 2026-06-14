@@ -1,12 +1,12 @@
 {
   "schema": "geo-area-index/1",
   "dataset": "tokyo-23-ward-area-packs",
-  "description": "Free ODbL geo area packs (TopoJSON) for Tokyo's 23 special wards, derived from OpenStreetMap.",
+  "description": "Free ODbL geo packs (TopoJSON) for Tokyo's 23 special wards, derived from OpenStreetMap: admin/road/water area packs (high/med/low) + a building footprint layer (flat tier) with per-building height for 3D extrusion.",
   "license": "ODbL-1.0",
   "attribution": "© OpenStreetMap contributors",
   "format": "topojson",
-  "url_pattern": "https://cdn.jsdelivr.net/gh/hwcharlton/geo-data@v1.0.0/packs/{ward}/{layer}/{tier}.topo.json",
-  "manifest_pattern": "https://cdn.jsdelivr.net/gh/hwcharlton/geo-data@v1.0.0/packs/{ward}/{layer}/{tier}.manifest.json",
+  "url_pattern": "https://cdn.jsdelivr.net/gh/hwcharlton/geo-data@v1.1.0/packs/{ward}/{layer}/{tier}.topo.json",
+  "manifest_pattern": "https://cdn.jsdelivr.net/gh/hwcharlton/geo-data@v1.1.0/packs/{ward}/{layer}/{tier}.manifest.json",
   "tiers": [
     "high",
     "med",
@@ -54,6 +54,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "arakawa": {
@@ -71,6 +74,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "bunkyo": {
@@ -88,6 +94,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "chiyoda": {
@@ -105,6 +114,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "chuo": {
@@ -122,6 +134,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "edogawa": {
@@ -139,6 +154,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "itabashi": {
@@ -156,6 +174,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "katsushika": {
@@ -173,6 +194,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "kita": {
@@ -190,6 +214,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "koto": {
@@ -207,6 +234,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "meguro": {
@@ -224,6 +254,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "minato": {
@@ -241,6 +274,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "nakano": {
@@ -258,6 +294,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "nerima": {
@@ -275,6 +314,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "ota": {
@@ -292,6 +334,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "setagaya": {
@@ -309,6 +354,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "shibuya": {
@@ -326,6 +374,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "shinagawa": {
@@ -343,6 +394,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "shinjuku": {
@@ -360,6 +414,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "suginami": {
@@ -377,6 +434,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "sumida": {
@@ -394,6 +454,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "taito": {
@@ -411,6 +474,9 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
     },
     "tokyo-23": {
@@ -435,7 +501,24 @@
         "high",
         "med",
         "low"
+      ],
+      "building": [
+        "flat"
       ]
+    }
+  },
+  "layers": {
+    "area": {
+      "tiers": [
+        "high",
+        "med",
+        "low"
+      ],
+      "format": "raw .topo.json (jsDelivr brotli-compresses on the wire)"
+    },
+    "building": {
+      "tier": "flat",
+      "format": "served brotli-only as the manifest artifact.file (<tier>.<hash>.topo.json.br) — decode client-side; the raw .topo.json is not published (dense wards exceed jsDelivr 20 MB). Each feature carries a numeric `height` (m): OSM height/levels where tagged (~6-9%), else a 9 m default."
     }
   }
 }
