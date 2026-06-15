@@ -1,0 +1,6875 @@
+{
+  "tier": "plateau-building",
+  "crs": "urn:ogc:def:crs:EPSG::4326",
+  "render_crs": "EPSG:6677",
+  "attribution": [
+    "出典：国土交通省 PLATEAU（加工して作成）"
+  ],
+  "license": "ODbL-1.0",
+  "meshes": [
+    {
+      "mesh": "53392546",
+      "bbox": [
+        139.7011405,
+        35.5395627,
+        139.7123998,
+        35.5417553
+      ],
+      "pack": "plateau/53392546/building/flat.c64b16815d4c.topo.json.br",
+      "count": 462,
+      "height_max": 41.5
+    },
+    {
+      "mesh": "53392547",
+      "bbox": [
+        139.7124522,
+        35.5407086,
+        139.7156384,
+        35.5422523
+      ],
+      "pack": "plateau/53392547/building/flat.14815f15b6a7.topo.json.br",
+      "count": 25,
+      "height_max": 42.7
+    },
+    {
+      "mesh": "53392556",
+      "bbox": [
+        139.6999472,
+        35.5414984,
+        139.7127255,
+        35.5501047
+      ],
+      "pack": "plateau/53392556/building/flat.c6688522125a.topo.json.br",
+      "count": 3287,
+      "height_max": 60.3
+    },
+    {
+      "mesh": "53392557",
+      "bbox": [
+        139.7119411,
+        35.5415554,
+        139.7250171,
+        35.5500873
+      ],
+      "pack": "plateau/53392557/building/flat.2c1493a155cf.topo.json.br",
+      "count": 3285,
+      "height_max": 46.6
+    },
+    {
+      "mesh": "53392558",
+      "bbox": [
+        139.7248738,
+        35.5449735,
+        139.7380551,
+        35.5502436
+      ],
+      "pack": "plateau/53392558/building/flat.858c273b1567.topo.json.br",
+      "count": 2027,
+      "height_max": 52.5
+    },
+    {
+      "mesh": "53392559",
+      "bbox": [
+        139.7374287,
+        35.5444442,
+        139.7502116,
+        35.5501302
+      ],
+      "pack": "plateau/53392559/building/flat.471e0dd11d72.topo.json.br",
+      "count": 2839,
+      "height_max": 29.3
+    },
+    {
+      "mesh": "53392565",
+      "bbox": [
+        139.692531,
+        35.5567788,
+        139.7000212,
+        35.558445
+      ],
+      "pack": "plateau/53392565/building/flat.d06c20153647.topo.json.br",
+      "count": 198,
+      "height_max": 41.1
+    },
+    {
+      "mesh": "53392566",
+      "bbox": [
+        139.699947,
+        35.5494065,
+        139.7126498,
+        35.5585617
+      ],
+      "pack": "plateau/53392566/building/flat.14460064ad88.topo.json.br",
+      "count": 3883,
+      "height_max": 81.2
+    },
+    {
+      "mesh": "53392567",
+      "bbox": [
+        139.7118225,
+        35.5496846,
+        139.7251706,
+        35.5585101
+      ],
+      "pack": "plateau/53392567/building/flat.98f75671694f.topo.json.br",
+      "count": 4696,
+      "height_max": 52.4
+    },
+    {
+      "mesh": "53392568",
+      "bbox": [
+        139.7248233,
+        35.5493996,
+        139.7378043,
+        35.5585373
+      ],
+      "pack": "plateau/53392568/building/flat.2b832afc8617.topo.json.br",
+      "count": 4957,
+      "height_max": 63.4
+    },
+    {
+      "mesh": "53392569",
+      "bbox": [
+        139.7371112,
+        35.5496786,
+        139.7516933,
+        35.5584668
+      ],
+      "pack": "plateau/53392569/building/flat.fad7c0ff52d9.topo.json.br",
+      "count": 2440,
+      "height_max": 49.8
+    },
+    {
+      "mesh": "53392574",
+      "bbox": [
+        139.6797498,
+        35.5603981,
+        139.6877241,
+        35.5668903
+      ],
+      "pack": "plateau/53392574/building/flat.50854f11cddf.topo.json.br",
+      "count": 484,
+      "height_max": 89.5
+    },
+    {
+      "mesh": "53392575",
+      "bbox": [
+        139.6872821,
+        35.5581068,
+        139.7002574,
+        35.566832
+      ],
+      "pack": "plateau/53392575/building/flat.76e53364a283.topo.json.br",
+      "count": 3492,
+      "height_max": 40.1
+    },
+    {
+      "mesh": "53392576",
+      "bbox": [
+        139.6998002,
+        35.5578206,
+        139.7137676,
+        35.5667992
+      ],
+      "pack": "plateau/53392576/building/flat.22fe442beaf3.topo.json.br",
+      "count": 4898,
+      "height_max": 53.5
+    },
+    {
+      "mesh": "53392577",
+      "bbox": [
+        139.7117306,
+        35.5581365,
+        139.7251823,
+        35.5667479
+      ],
+      "pack": "plateau/53392577/building/flat.272dca0b36d8.topo.json.br",
+      "count": 3198,
+      "height_max": 91.5
+    },
+    {
+      "mesh": "53392578",
+      "bbox": [
+        139.7248251,
+        35.5578001,
+        139.7375593,
+        35.5667877
+      ],
+      "pack": "plateau/53392578/building/flat.6c760a562607.topo.json.br",
+      "count": 5251,
+      "height_max": 47.3
+    },
+    {
+      "mesh": "53392579",
+      "bbox": [
+        139.7370949,
+        35.5580389,
+        139.750195,
+        35.5667827
+      ],
+      "pack": "plateau/53392579/building/flat.53eb7dee307c.topo.json.br",
+      "count": 3495,
+      "height_max": 45.1
+    },
+    {
+      "mesh": "53392584",
+      "bbox": [
+        139.6756678,
+        35.5659084,
+        139.6875748,
+        35.5750756
+      ],
+      "pack": "plateau/53392584/building/flat.b286a5d3748f.topo.json.br",
+      "count": 2903,
+      "height_max": 100
+    },
+    {
+      "mesh": "53392585",
+      "bbox": [
+        139.6869934,
+        35.5665127,
+        139.7000729,
+        35.5750718
+      ],
+      "pack": "plateau/53392585/building/flat.44e704effb2b.topo.json.br",
+      "count": 4308,
+      "height_max": 71.6
+    },
+    {
+      "mesh": "53392586",
+      "bbox": [
+        139.6997438,
+        35.5663317,
+        139.712521,
+        35.5751746
+      ],
+      "pack": "plateau/53392586/building/flat.40946c57969d.topo.json.br",
+      "count": 5493,
+      "height_max": 45.6
+    },
+    {
+      "mesh": "53392587",
+      "bbox": [
+        139.7121033,
+        35.566448,
+        139.725366,
+        35.575072
+      ],
+      "pack": "plateau/53392587/building/flat.26df23f3cf30.topo.json.br",
+      "count": 5456,
+      "height_max": 45.2
+    },
+    {
+      "mesh": "53392588",
+      "bbox": [
+        139.7241207,
+        35.566472,
+        139.737561,
+        35.5750962
+      ],
+      "pack": "plateau/53392588/building/flat.3017fb7151f0.topo.json.br",
+      "count": 4696,
+      "height_max": 46.7
+    },
+    {
+      "mesh": "53392589",
+      "bbox": [
+        139.7373378,
+        35.5663341,
+        139.7501361,
+        35.5750509
+      ],
+      "pack": "plateau/53392589/building/flat.63d081a60594.topo.json.br",
+      "count": 2226,
+      "height_max": 32.3
+    },
+    {
+      "mesh": "53392593",
+      "bbox": [
+        139.6718323,
+        35.5762285,
+        139.6752693,
+        35.583426
+      ],
+      "pack": "plateau/53392593/building/flat.9ecbdf9c3f9c.topo.json.br",
+      "count": 516,
+      "height_max": 44.9
+    },
+    {
+      "mesh": "53392594",
+      "bbox": [
+        139.674479,
+        35.5746199,
+        139.6875986,
+        35.5834778
+      ],
+      "pack": "plateau/53392594/building/flat.5f79ab6155c1.topo.json.br",
+      "count": 4373,
+      "height_max": 42.9
+    },
+    {
+      "mesh": "53392595",
+      "bbox": [
+        139.6873457,
+        35.5748936,
+        139.7001397,
+        35.5834605
+      ],
+      "pack": "plateau/53392595/building/flat.c4f806c4845f.topo.json.br",
+      "count": 4464,
+      "height_max": 50.6
+    },
+    {
+      "mesh": "53392596",
+      "bbox": [
+        139.699484,
+        35.5748905,
+        139.7125678,
+        35.5833857
+      ],
+      "pack": "plateau/53392596/building/flat.890913bbb808.topo.json.br",
+      "count": 3487,
+      "height_max": 43.8
+    },
+    {
+      "mesh": "53392597",
+      "bbox": [
+        139.7119266,
+        35.5747344,
+        139.7250444,
+        35.5834155
+      ],
+      "pack": "plateau/53392597/building/flat.735ef7f8a9a4.topo.json.br",
+      "count": 5398,
+      "height_max": 46.3
+    },
+    {
+      "mesh": "53392598",
+      "bbox": [
+        139.7247606,
+        35.5745809,
+        139.737892,
+        35.5835075
+      ],
+      "pack": "plateau/53392598/building/flat.b03404069b35.topo.json.br",
+      "count": 5091,
+      "height_max": 54.9
+    },
+    {
+      "mesh": "53392599",
+      "bbox": [
+        139.7371383,
+        35.574962,
+        139.7503277,
+        35.5840885
+      ],
+      "pack": "plateau/53392599/building/flat.14a87527ced2.topo.json.br",
+      "count": 689,
+      "height_max": 48.6
+    },
+    {
+      "mesh": "53392633",
+      "bbox": [
+        139.7929865,
+        35.5326552,
+        139.7964327,
+        35.5338385
+      ],
+      "pack": "plateau/53392633/building/flat.b0aa91891cf8.topo.json.br",
+      "count": 10,
+      "height_max": 48.7
+    },
+    {
+      "mesh": "53392641",
+      "bbox": [
+        139.7672827,
+        35.5400422,
+        139.7767842,
+        35.5482631
+      ],
+      "pack": "plateau/53392641/building/flat.ee861a887de7.topo.json.br",
+      "count": 11,
+      "height_max": 42.4
+    },
+    {
+      "mesh": "53392642",
+      "bbox": [
+        139.7749248,
+        35.5382132,
+        139.7792607,
+        35.5419212
+      ],
+      "pack": "plateau/53392642/building/flat.5f9428f0057f.topo.json.br",
+      "count": 8,
+      "height_max": 16.1
+    },
+    {
+      "mesh": "53392643",
+      "bbox": [
+        139.7876122,
+        35.5333501,
+        139.8000013,
+        35.5426537
+      ],
+      "pack": "plateau/53392643/building/flat.67a45e3f3cc9.topo.json.br",
+      "count": 71,
+      "height_max": 55.6
+    },
+    {
+      "mesh": "53392650",
+      "bbox": [
+        139.7498338,
+        35.5449715,
+        139.7625884,
+        35.5500395
+      ],
+      "pack": "plateau/53392650/building/flat.470fc0f72d7a.topo.json.br",
+      "count": 619,
+      "height_max": 36.1
+    },
+    {
+      "mesh": "53392651",
+      "bbox": [
+        139.7626485,
+        35.5426312,
+        139.7716487,
+        35.5502105
+      ],
+      "pack": "plateau/53392651/building/flat.f609e47d348a.topo.json.br",
+      "count": 44,
+      "height_max": 49.7
+    },
+    {
+      "mesh": "53392652",
+      "bbox": [
+        139.7800264,
+        35.5446455,
+        139.7876565,
+        35.5527945
+      ],
+      "pack": "plateau/53392652/building/flat.e607ba83abe4.topo.json.br",
+      "count": 7,
+      "height_max": 39.4
+    },
+    {
+      "mesh": "53392653",
+      "bbox": [
+        139.7875099,
+        35.5416263,
+        139.7940924,
+        35.5501436
+      ],
+      "pack": "plateau/53392653/building/flat.86620e84a0df.topo.json.br",
+      "count": 31,
+      "height_max": 44.7
+    },
+    {
+      "mesh": "53392660",
+      "bbox": [
+        139.7488852,
+        35.5496985,
+        139.7580811,
+        35.5584519
+      ],
+      "pack": "plateau/53392660/building/flat.f4b7d9a0a4e5.topo.json.br",
+      "count": 123,
+      "height_max": 49.7
+    },
+    {
+      "mesh": "53392662",
+      "bbox": [
+        139.7772257,
+        35.5497319,
+        139.7877076,
+        35.5603056
+      ],
+      "pack": "plateau/53392662/building/flat.03b7895be879.topo.json.br",
+      "count": 43,
+      "height_max": 116.3
+    },
+    {
+      "mesh": "53392663",
+      "bbox": [
+        139.7861385,
+        35.5470504,
+        139.7936394,
+        35.5560862
+      ],
+      "pack": "plateau/53392663/building/flat.9b3936311419.topo.json.br",
+      "count": 1,
+      "height_max": 36.5
+    },
+    {
+      "mesh": "53392670",
+      "bbox": [
+        139.7497491,
+        35.5583834,
+        139.7554567,
+        35.5656442
+      ],
+      "pack": "plateau/53392670/building/flat.42214e3d3702.topo.json.br",
+      "count": 174,
+      "height_max": 42.2
+    },
+    {
+      "mesh": "53392671",
+      "bbox": [
+        139.7629148,
+        35.5652332,
+        139.7668571,
+        35.5666528
+      ],
+      "pack": "plateau/53392671/building/flat.9ee8e5dd4a69.topo.json.br",
+      "count": 18,
+      "height_max": 14.6
+    },
+    {
+      "mesh": "53392672",
+      "bbox": [
+        139.77672,
+        35.5589426,
+        139.7816304,
+        35.5614285
+      ],
+      "pack": "plateau/53392672/building/flat.f57182b5fc39.topo.json.br",
+      "count": 15,
+      "height_max": 18.7
+    },
+    {
+      "mesh": "53392680",
+      "bbox": [
+        139.7497979,
+        35.5669962,
+        139.7625036,
+        35.5750134
+      ],
+      "pack": "plateau/53392680/building/flat.c1e6b836a2aa.topo.json.br",
+      "count": 219,
+      "height_max": 33.1
+    },
+    {
+      "mesh": "53392681",
+      "bbox": [
+        139.7619186,
+        35.5664124,
+        139.7729211,
+        35.5748909
+      ],
+      "pack": "plateau/53392681/building/flat.a57c7fefffb7.topo.json.br",
+      "count": 428,
+      "height_max": 43.3
+    },
+    {
+      "mesh": "53392690",
+      "bbox": [
+        139.7483015,
+        35.5746777,
+        139.7624697,
+        35.5833229
+      ],
+      "pack": "plateau/53392690/building/flat.53e6d88b0a34.topo.json.br",
+      "count": 123,
+      "height_max": 43
+    },
+    {
+      "mesh": "53392691",
+      "bbox": [
+        139.757847,
+        35.5749026,
+        139.7749457,
+        35.582932
+      ],
+      "pack": "plateau/53392691/building/flat.ea20859ae896.topo.json.br",
+      "count": 111,
+      "height_max": 34.8
+    },
+    {
+      "mesh": "53392692",
+      "bbox": [
+        139.7748516,
+        35.577128,
+        139.7864464,
+        35.5833741
+      ],
+      "pack": "plateau/53392692/building/flat.71d9596efd24.topo.json.br",
+      "count": 289,
+      "height_max": 31
+    },
+    {
+      "mesh": "53393439",
+      "bbox": [
+        139.6137819,
+        35.6124616,
+        139.6251024,
+        35.6167831
+      ],
+      "pack": "plateau/53393439/building/flat.e0636a40930e.topo.json.br",
+      "count": 259,
+      "height_max": 37
+    },
+    {
+      "mesh": "53393447",
+      "bbox": [
+        139.5891988,
+        35.6200066,
+        139.6003136,
+        35.6250696
+      ],
+      "pack": "plateau/53393447/building/flat.a0d22097370d.topo.json.br",
+      "count": 962,
+      "height_max": 17.5
+    },
+    {
+      "mesh": "53393448",
+      "bbox": [
+        139.5999039,
+        35.6168247,
+        139.612597,
+        35.6250383
+      ],
+      "pack": "plateau/53393448/building/flat.f42d703f9257.topo.json.br",
+      "count": 2213,
+      "height_max": 19.8
+    },
+    {
+      "mesh": "53393449",
+      "bbox": [
+        139.6119705,
+        35.616411,
+        139.6250991,
+        35.6251353
+      ],
+      "pack": "plateau/53393449/building/flat.6e5f21521ed7.topo.json.br",
+      "count": 2082,
+      "height_max": 34.6
+    },
+    {
+      "mesh": "53393457",
+      "bbox": [
+        139.5911187,
+        35.6249336,
+        139.600056,
+        35.633404
+      ],
+      "pack": "plateau/53393457/building/flat.6b318a7c0b14.topo.json.br",
+      "count": 1741,
+      "height_max": 31.4
+    },
+    {
+      "mesh": "53393458",
+      "bbox": [
+        139.5997755,
+        35.6247387,
+        139.6127327,
+        35.6336712
+      ],
+      "pack": "plateau/53393458/building/flat.d69d260c4687.topo.json.br",
+      "count": 1724,
+      "height_max": 27.5
+    },
+    {
+      "mesh": "53393459",
+      "bbox": [
+        139.6117392,
+        35.6247713,
+        139.6250289,
+        35.6334053
+      ],
+      "pack": "plateau/53393459/building/flat.7c91b186a69d.topo.json.br",
+      "count": 1190,
+      "height_max": 39.9
+    },
+    {
+      "mesh": "53393466",
+      "bbox": [
+        139.5843197,
+        35.6355705,
+        139.5879455,
+        35.6417538
+      ],
+      "pack": "plateau/53393466/building/flat.43ae2cc5592d.topo.json.br",
+      "count": 403,
+      "height_max": 17.5
+    },
+    {
+      "mesh": "53393467",
+      "bbox": [
+        139.5872861,
+        35.6330381,
+        139.6000639,
+        35.6417669
+      ],
+      "pack": "plateau/53393467/building/flat.7428f468b8ba.topo.json.br",
+      "count": 2305,
+      "height_max": 34.4
+    },
+    {
+      "mesh": "53393468",
+      "bbox": [
+        139.5980611,
+        35.6325985,
+        139.6128407,
+        35.6417663
+      ],
+      "pack": "plateau/53393468/building/flat.8ebed5904732.topo.json.br",
+      "count": 2886,
+      "height_max": 61.1
+    },
+    {
+      "mesh": "53393469",
+      "bbox": [
+        139.6122667,
+        35.6321556,
+        139.6252387,
+        35.6418056
+      ],
+      "pack": "plateau/53393469/building/flat.c0f392504067.topo.json.br",
+      "count": 3097,
+      "height_max": 72.5
+    },
+    {
+      "mesh": "53393476",
+      "bbox": [
+        139.5848488,
+        35.6415889,
+        139.5872307,
+        35.6433579
+      ],
+      "pack": "plateau/53393476/building/flat.90d582060c8a.topo.json.br",
+      "count": 63,
+      "height_max": 10.5
+    },
+    {
+      "mesh": "53393477",
+      "bbox": [
+        139.5874618,
+        35.6415128,
+        139.600057,
+        35.6501525
+      ],
+      "pack": "plateau/53393477/building/flat.67d158da00e7.topo.json.br",
+      "count": 2254,
+      "height_max": 32.8
+    },
+    {
+      "mesh": "53393478",
+      "bbox": [
+        139.5998891,
+        35.6411247,
+        139.6125987,
+        35.6500459
+      ],
+      "pack": "plateau/53393478/building/flat.b4a7c8f37b1b.topo.json.br",
+      "count": 3447,
+      "height_max": 38.5
+    },
+    {
+      "mesh": "53393479",
+      "bbox": [
+        139.6122617,
+        35.6414354,
+        139.625192,
+        35.6501164
+      ],
+      "pack": "plateau/53393479/building/flat.4d808d346313.topo.json.br",
+      "count": 3472,
+      "height_max": 35.4
+    },
+    {
+      "mesh": "53393487",
+      "bbox": [
+        139.5897453,
+        35.649623,
+        139.6000626,
+        35.6585403
+      ],
+      "pack": "plateau/53393487/building/flat.a0c0cccb7d56.topo.json.br",
+      "count": 1585,
+      "height_max": 30.1
+    },
+    {
+      "mesh": "53393488",
+      "bbox": [
+        139.5997668,
+        35.6498282,
+        139.6125842,
+        35.6584684
+      ],
+      "pack": "plateau/53393488/building/flat.14867761e081.topo.json.br",
+      "count": 4104,
+      "height_max": 44.7
+    },
+    {
+      "mesh": "53393489",
+      "bbox": [
+        139.6121675,
+        35.6495119,
+        139.6256131,
+        35.6589527
+      ],
+      "pack": "plateau/53393489/building/flat.6c9a06c43c40.topo.json.br",
+      "count": 2690,
+      "height_max": 45.1
+    },
+    {
+      "mesh": "53393496",
+      "bbox": [
+        139.5868836,
+        35.6632954,
+        139.5874656,
+        35.6643146
+      ],
+      "pack": "plateau/53393496/building/flat.163131a29ed9.topo.json.br",
+      "count": 20,
+      "height_max": 9.7
+    },
+    {
+      "mesh": "53393497",
+      "bbox": [
+        139.5873857,
+        35.6576914,
+        139.6000666,
+        35.6668246
+      ],
+      "pack": "plateau/53393497/building/flat.4ce84b77a15d.topo.json.br",
+      "count": 2835,
+      "height_max": 28.9
+    },
+    {
+      "mesh": "53393498",
+      "bbox": [
+        139.5998249,
+        35.6579126,
+        139.6124829,
+        35.6669115
+      ],
+      "pack": "plateau/53393498/building/flat.f7c99cd06330.topo.json.br",
+      "count": 2843,
+      "height_max": 43.6
+    },
+    {
+      "mesh": "53393499",
+      "bbox": [
+        139.6118991,
+        35.6579408,
+        139.6250874,
+        35.6667722
+      ],
+      "pack": "plateau/53393499/building/flat.094b85d62e18.topo.json.br",
+      "count": 2225,
+      "height_max": 129.7
+    },
+    {
+      "mesh": "53393503",
+      "bbox": [
+        139.6625874,
+        35.5832721,
+        139.6751424,
+        35.5917616
+      ],
+      "pack": "plateau/53393503/building/flat.6a8cd12917c6.topo.json.br",
+      "count": 1749,
+      "height_max": 42.5
+    },
+    {
+      "mesh": "53393504",
+      "bbox": [
+        139.6747409,
+        35.5830522,
+        139.6876435,
+        35.5918146
+      ],
+      "pack": "plateau/53393504/building/flat.09da3e3b9311.topo.json.br",
+      "count": 4543,
+      "height_max": 41.9
+    },
+    {
+      "mesh": "53393505",
+      "bbox": [
+        139.6873257,
+        35.5832168,
+        139.7001255,
+        35.5919194
+      ],
+      "pack": "plateau/53393505/building/flat.b574067d319d.topo.json.br",
+      "count": 3861,
+      "height_max": 30
+    },
+    {
+      "mesh": "53393506",
+      "bbox": [
+        139.6997029,
+        35.5829694,
+        139.7126381,
+        35.5917641
+      ],
+      "pack": "plateau/53393506/building/flat.3316a9ae188c.topo.json.br",
+      "count": 3351,
+      "height_max": 38.1
+    },
+    {
+      "mesh": "53393507",
+      "bbox": [
+        139.7120795,
+        35.5828107,
+        139.7250859,
+        35.5918142
+      ],
+      "pack": "plateau/53393507/building/flat.60b5e4f838db.topo.json.br",
+      "count": 4946,
+      "height_max": 84.7
+    },
+    {
+      "mesh": "53393508",
+      "bbox": [
+        139.7248061,
+        35.5830905,
+        139.7379336,
+        35.5918423
+      ],
+      "pack": "plateau/53393508/building/flat.482a64d78f48.topo.json.br",
+      "count": 2369,
+      "height_max": 88
+    },
+    {
+      "mesh": "53393509",
+      "bbox": [
+        139.7367456,
+        35.582897,
+        139.7494017,
+        35.5916741
+      ],
+      "pack": "plateau/53393509/building/flat.77e86dad424e.topo.json.br",
+      "count": 200,
+      "height_max": 74.3
+    },
+    {
+      "mesh": "53393511",
+      "bbox": [
+        139.643429,
+        35.5959166,
+        139.6500763,
+        35.6001505
+      ],
+      "pack": "plateau/53393511/building/flat.d7476d4fd466.topo.json.br",
+      "count": 303,
+      "height_max": 18.8
+    },
+    {
+      "mesh": "53393512",
+      "bbox": [
+        139.6497822,
+        35.5916367,
+        139.662575,
+        35.6000243
+      ],
+      "pack": "plateau/53393512/building/flat.68afb81b01c2.topo.json.br",
+      "count": 2506,
+      "height_max": 25.1
+    },
+    {
+      "mesh": "53393513",
+      "bbox": [
+        139.6623104,
+        35.5909524,
+        139.6751656,
+        35.6001277
+      ],
+      "pack": "plateau/53393513/building/flat.0520033c5208.topo.json.br",
+      "count": 3297,
+      "height_max": 36.5
+    },
+    {
+      "mesh": "53393514",
+      "bbox": [
+        139.6744904,
+        35.5913198,
+        139.6875374,
+        35.6001276
+      ],
+      "pack": "plateau/53393514/building/flat.0c65535a1818.topo.json.br",
+      "count": 4303,
+      "height_max": 48.1
+    },
+    {
+      "mesh": "53393515",
+      "bbox": [
+        139.6873189,
+        35.5914787,
+        139.7004197,
+        35.6001
+      ],
+      "pack": "plateau/53393515/building/flat.19bdb84d4bec.topo.json.br",
+      "count": 4855,
+      "height_max": 39.7
+    },
+    {
+      "mesh": "53393516",
+      "bbox": [
+        139.6998216,
+        35.5906541,
+        139.712587,
+        35.6000744
+      ],
+      "pack": "plateau/53393516/building/flat.30cbcc4d22fa.topo.json.br",
+      "count": 3898,
+      "height_max": 49.1
+    },
+    {
+      "mesh": "53393517",
+      "bbox": [
+        139.7121813,
+        35.591316,
+        139.7251584,
+        35.6001011
+      ],
+      "pack": "plateau/53393517/building/flat.0097cd278fd6.topo.json.br",
+      "count": 5623,
+      "height_max": 40
+    },
+    {
+      "mesh": "53393518",
+      "bbox": [
+        139.7247714,
+        35.5914703,
+        139.7375586,
+        35.600074
+      ],
+      "pack": "plateau/53393518/building/flat.95566c98edd0.topo.json.br",
+      "count": 4509,
+      "height_max": 64
+    },
+    {
+      "mesh": "53393519",
+      "bbox": [
+        139.737096,
+        35.5914506,
+        139.7501479,
+        35.6000183
+      ],
+      "pack": "plateau/53393519/building/flat.6ebe67e6545f.topo.json.br",
+      "count": 1270,
+      "height_max": 60.7
+    },
+    {
+      "mesh": "53393520",
+      "bbox": [
+        139.6306676,
+        35.6040858,
+        139.6377682,
+        35.6084269
+      ],
+      "pack": "plateau/53393520/building/flat.ddc57e86f47b.topo.json.br",
+      "count": 256,
+      "height_max": 26.5
+    },
+    {
+      "mesh": "53393521",
+      "bbox": [
+        139.6373043,
+        35.5993042,
+        139.6503095,
+        35.608444
+      ],
+      "pack": "plateau/53393521/building/flat.4197357b254c.topo.json.br",
+      "count": 2158,
+      "height_max": 33.9
+    },
+    {
+      "mesh": "53393522",
+      "bbox": [
+        139.6498096,
+        35.5996863,
+        139.6625898,
+        35.6084053
+      ],
+      "pack": "plateau/53393522/building/flat.256cfce008e7.topo.json.br",
+      "count": 3560,
+      "height_max": 33.4
+    },
+    {
+      "mesh": "53393523",
+      "bbox": [
+        139.6623144,
+        35.5997432,
+        139.6750752,
+        35.6084227
+      ],
+      "pack": "plateau/53393523/building/flat.ab3b2b789346.topo.json.br",
+      "count": 3978,
+      "height_max": 47.3
+    },
+    {
+      "mesh": "53393524",
+      "bbox": [
+        139.6747355,
+        35.5994352,
+        139.687533,
+        35.6089362
+      ],
+      "pack": "plateau/53393524/building/flat.fd64fe7603d3.topo.json.br",
+      "count": 4100,
+      "height_max": 55.2
+    },
+    {
+      "mesh": "53393525",
+      "bbox": [
+        139.6873355,
+        35.5998845,
+        139.7002524,
+        35.6084502
+      ],
+      "pack": "plateau/53393525/building/flat.fcfef77ff033.topo.json.br",
+      "count": 4137,
+      "height_max": 44.8
+    },
+    {
+      "mesh": "53393526",
+      "bbox": [
+        139.6996568,
+        35.5999126,
+        139.7125639,
+        35.6093134
+      ],
+      "pack": "plateau/53393526/building/flat.de45e0486ae7.topo.json.br",
+      "count": 5735,
+      "height_max": 78
+    },
+    {
+      "mesh": "53393527",
+      "bbox": [
+        139.7122998,
+        35.5996694,
+        139.7254642,
+        35.6084622
+      ],
+      "pack": "plateau/53393527/building/flat.be7f157612a9.topo.json.br",
+      "count": 5930,
+      "height_max": 90.5
+    },
+    {
+      "mesh": "53393528",
+      "bbox": [
+        139.7247938,
+        35.5993266,
+        139.7376574,
+        35.6084248
+      ],
+      "pack": "plateau/53393528/building/flat.271ed27060df.topo.json.br",
+      "count": 4515,
+      "height_max": 101.3
+    },
+    {
+      "mesh": "53393529",
+      "bbox": [
+        139.7372052,
+        35.5995669,
+        139.7499893,
+        35.6084164
+      ],
+      "pack": "plateau/53393529/building/flat.3988db09ecb1.topo.json.br",
+      "count": 1999,
+      "height_max": 99.2
+    },
+    {
+      "mesh": "53393530",
+      "bbox": [
+        139.6247436,
+        35.6082301,
+        139.6375869,
+        35.6167703
+      ],
+      "pack": "plateau/53393530/building/flat.a2484e1fcc21.topo.json.br",
+      "count": 1563,
+      "height_max": 150.3
+    },
+    {
+      "mesh": "53393531",
+      "bbox": [
+        139.6371388,
+        35.6081893,
+        139.6504025,
+        35.6167284
+      ],
+      "pack": "plateau/53393531/building/flat.970f1fda75ee.topo.json.br",
+      "count": 3279,
+      "height_max": 32.7
+    },
+    {
+      "mesh": "53393532",
+      "bbox": [
+        139.6496181,
+        35.6079997,
+        139.6626519,
+        35.6167871
+      ],
+      "pack": "plateau/53393532/building/flat.683921bc5c41.topo.json.br",
+      "count": 3389,
+      "height_max": 46.6
+    },
+    {
+      "mesh": "53393533",
+      "bbox": [
+        139.662261,
+        35.6078824,
+        139.6752084,
+        35.6168716
+      ],
+      "pack": "plateau/53393533/building/flat.386fda8210d3.topo.json.br",
+      "count": 3995,
+      "height_max": 42.9
+    },
+    {
+      "mesh": "53393534",
+      "bbox": [
+        139.6748346,
+        35.6081669,
+        139.6876791,
+        35.6167666
+      ],
+      "pack": "plateau/53393534/building/flat.434270020035.topo.json.br",
+      "count": 4777,
+      "height_max": 42.6
+    },
+    {
+      "mesh": "53393535",
+      "bbox": [
+        139.6873022,
+        35.6082368,
+        139.700038,
+        35.6167426
+      ],
+      "pack": "plateau/53393535/building/flat.6fc1d7796400.topo.json.br",
+      "count": 5017,
+      "height_max": 37.3
+    },
+    {
+      "mesh": "53393536",
+      "bbox": [
+        139.6995594,
+        35.6079899,
+        139.7125918,
+        35.6167782
+      ],
+      "pack": "plateau/53393536/building/flat.d3ddbecaab31.topo.json.br",
+      "count": 5674,
+      "height_max": 77.4
+    },
+    {
+      "mesh": "53393537",
+      "bbox": [
+        139.7123344,
+        35.6081508,
+        139.7251018,
+        35.6167446
+      ],
+      "pack": "plateau/53393537/building/flat.112a2d1adcab.topo.json.br",
+      "count": 5902,
+      "height_max": 47.1
+    },
+    {
+      "mesh": "53393538",
+      "bbox": [
+        139.7247723,
+        35.6075212,
+        139.7379655,
+        35.6166824
+      ],
+      "pack": "plateau/53393538/building/flat.8ce623105283.topo.json.br",
+      "count": 3287,
+      "height_max": 114.2
+    },
+    {
+      "mesh": "53393539",
+      "bbox": [
+        139.7372671,
+        35.6075955,
+        139.7501437,
+        35.6174107
+      ],
+      "pack": "plateau/53393539/building/flat.de943c247636.topo.json.br",
+      "count": 2872,
+      "height_max": 103.8
+    },
+    {
+      "mesh": "53393540",
+      "bbox": [
+        139.6247724,
+        35.6164227,
+        139.6377812,
+        35.6250642
+      ],
+      "pack": "plateau/53393540/building/flat.7201d247532b.topo.json.br",
+      "count": 3005,
+      "height_max": 45.2
+    },
+    {
+      "mesh": "53393541",
+      "bbox": [
+        139.6368609,
+        35.6160777,
+        139.6510896,
+        35.6250995
+      ],
+      "pack": "plateau/53393541/building/flat.509a2f15a40f.topo.json.br",
+      "count": 3039,
+      "height_max": 46.5
+    },
+    {
+      "mesh": "53393542",
+      "bbox": [
+        139.6498209,
+        35.6165362,
+        139.6625566,
+        35.6250051
+      ],
+      "pack": "plateau/53393542/building/flat.afd6dafa23cd.topo.json.br",
+      "count": 3046,
+      "height_max": 30.7
+    },
+    {
+      "mesh": "53393543",
+      "bbox": [
+        139.6622914,
+        35.6163997,
+        139.6751971,
+        35.6251739
+      ],
+      "pack": "plateau/53393543/building/flat.1f7327524c35.topo.json.br",
+      "count": 3225,
+      "height_max": 66.1
+    },
+    {
+      "mesh": "53393544",
+      "bbox": [
+        139.6746309,
+        35.6163837,
+        139.6875245,
+        35.6251182
+      ],
+      "pack": "plateau/53393544/building/flat.36114eb2e061.topo.json.br",
+      "count": 3238,
+      "height_max": 50.2
+    },
+    {
+      "mesh": "53393545",
+      "bbox": [
+        139.6870856,
+        35.616505,
+        139.7003284,
+        35.6252172
+      ],
+      "pack": "plateau/53393545/building/flat.4545569e6709.topo.json.br",
+      "count": 5392,
+      "height_max": 38.2
+    },
+    {
+      "mesh": "53393546",
+      "bbox": [
+        139.6996751,
+        35.6161435,
+        139.7125601,
+        35.6251357
+      ],
+      "pack": "plateau/53393546/building/flat.66f7b8743750.topo.json.br",
+      "count": 5245,
+      "height_max": 144.6
+    },
+    {
+      "mesh": "53393547",
+      "bbox": [
+        139.7121266,
+        35.6163735,
+        139.7254195,
+        35.6250791
+      ],
+      "pack": "plateau/53393547/building/flat.287eb9896fe0.topo.json.br",
+      "count": 3728,
+      "height_max": 67.6
+    },
+    {
+      "mesh": "53393548",
+      "bbox": [
+        139.7246297,
+        35.6162979,
+        139.7375208,
+        35.6250809
+      ],
+      "pack": "plateau/53393548/building/flat.2c44b81498cc.topo.json.br",
+      "count": 1234,
+      "height_max": 152.4
+    },
+    {
+      "mesh": "53393549",
+      "bbox": [
+        139.7373044,
+        35.6159468,
+        139.7499841,
+        35.6260331
+      ],
+      "pack": "plateau/53393549/building/flat.96fadd25c0c2.topo.json.br",
+      "count": 2215,
+      "height_max": 143.6
+    },
+    {
+      "mesh": "53393550",
+      "bbox": [
+        139.6248418,
+        35.6244827,
+        139.6376791,
+        35.6334842
+      ],
+      "pack": "plateau/53393550/building/flat.1dfae080fe79.topo.json.br",
+      "count": 2844,
+      "height_max": 120.5
+    },
+    {
+      "mesh": "53393551",
+      "bbox": [
+        139.636863,
+        35.6248877,
+        139.6500219,
+        35.633563
+      ],
+      "pack": "plateau/53393551/building/flat.2f25908eca6a.topo.json.br",
+      "count": 3073,
+      "height_max": 40.3
+    },
+    {
+      "mesh": "53393552",
+      "bbox": [
+        139.6498316,
+        35.624267,
+        139.6625655,
+        35.6334257
+      ],
+      "pack": "plateau/53393552/building/flat.552017923e40.topo.json.br",
+      "count": 2883,
+      "height_max": 92.8
+    },
+    {
+      "mesh": "53393553",
+      "bbox": [
+        139.6613591,
+        35.6242968,
+        139.6752068,
+        35.6334022
+      ],
+      "pack": "plateau/53393553/building/flat.da95655e88ce.topo.json.br",
+      "count": 3536,
+      "height_max": 45.4
+    },
+    {
+      "mesh": "53393554",
+      "bbox": [
+        139.6743315,
+        35.6247228,
+        139.6877323,
+        35.6334514
+      ],
+      "pack": "plateau/53393554/building/flat.789af8e59eff.topo.json.br",
+      "count": 4244,
+      "height_max": 46.6
+    },
+    {
+      "mesh": "53393555",
+      "bbox": [
+        139.6873633,
+        35.62468,
+        139.7001989,
+        35.6334639
+      ],
+      "pack": "plateau/53393555/building/flat.27ff6cc5e46c.topo.json.br",
+      "count": 4413,
+      "height_max": 99.8
+    },
+    {
+      "mesh": "53393556",
+      "bbox": [
+        139.6997832,
+        35.6245815,
+        139.7125534,
+        35.633467
+      ],
+      "pack": "plateau/53393556/building/flat.88e2797d4535.topo.json.br",
+      "count": 4107,
+      "height_max": 68.4
+    },
+    {
+      "mesh": "53393557",
+      "bbox": [
+        139.7119404,
+        35.6246358,
+        139.7251031,
+        35.6336115
+      ],
+      "pack": "plateau/53393557/building/flat.841b95bd913b.topo.json.br",
+      "count": 1937,
+      "height_max": 148.8
+    },
+    {
+      "mesh": "53393558",
+      "bbox": [
+        139.7246784,
+        35.6246656,
+        139.737597,
+        35.6335278
+      ],
+      "pack": "plateau/53393558/building/flat.574957de0d31.topo.json.br",
+      "count": 2145,
+      "height_max": 144.9
+    },
+    {
+      "mesh": "53393559",
+      "bbox": [
+        139.7371481,
+        35.6245396,
+        139.7501392,
+        35.6347302
+      ],
+      "pack": "plateau/53393559/building/flat.b0c3ff889604.topo.json.br",
+      "count": 469,
+      "height_max": 157.4
+    },
+    {
+      "mesh": "53393560",
+      "bbox": [
+        139.6247171,
+        35.6331393,
+        139.63763,
+        35.6417471
+      ],
+      "pack": "plateau/53393560/building/flat.f283263359f9.topo.json.br",
+      "count": 2065,
+      "height_max": 49.7
+    },
+    {
+      "mesh": "53393561",
+      "bbox": [
+        139.6370792,
+        35.6331251,
+        139.6500619,
+        35.6418233
+      ],
+      "pack": "plateau/53393561/building/flat.ea722b076115.topo.json.br",
+      "count": 3269,
+      "height_max": 46.3
+    },
+    {
+      "mesh": "53393562",
+      "bbox": [
+        139.6498042,
+        35.6327077,
+        139.6627371,
+        35.6417912
+      ],
+      "pack": "plateau/53393562/building/flat.2308ddf18ebc.topo.json.br",
+      "count": 4188,
+      "height_max": 66.2
+    },
+    {
+      "mesh": "53393563",
+      "bbox": [
+        139.6621872,
+        35.633088,
+        139.675544,
+        35.6418266
+      ],
+      "pack": "plateau/53393563/building/flat.65be4636a059.topo.json.br",
+      "count": 4722,
+      "height_max": 107.1
+    },
+    {
+      "mesh": "53393564",
+      "bbox": [
+        139.6748252,
+        35.633219,
+        139.6877063,
+        35.6419418
+      ],
+      "pack": "plateau/53393564/building/flat.f8bde1c8edbd.topo.json.br",
+      "count": 4477,
+      "height_max": 32.8
+    },
+    {
+      "mesh": "53393565",
+      "bbox": [
+        139.6873537,
+        35.6327856,
+        139.7000857,
+        35.6419013
+      ],
+      "pack": "plateau/53393565/building/flat.16c9f20d7e30.topo.json.br",
+      "count": 4978,
+      "height_max": 36.6
+    },
+    {
+      "mesh": "53393566",
+      "bbox": [
+        139.6998224,
+        35.6331877,
+        139.7127464,
+        35.6420648
+      ],
+      "pack": "plateau/53393566/building/flat.35f5e4b8499b.topo.json.br",
+      "count": 3002,
+      "height_max": 89.4
+    },
+    {
+      "mesh": "53393567",
+      "bbox": [
+        139.7119898,
+        35.6326721,
+        139.7250995,
+        35.6417369
+      ],
+      "pack": "plateau/53393567/building/flat.67b41772b4fb.topo.json.br",
+      "count": 1831,
+      "height_max": 115.6
+    },
+    {
+      "mesh": "53393568",
+      "bbox": [
+        139.724657,
+        35.6330762,
+        139.7377947,
+        35.6417465
+      ],
+      "pack": "plateau/53393568/building/flat.3a63b5d067e8.topo.json.br",
+      "count": 2339,
+      "height_max": 154.1
+    },
+    {
+      "mesh": "53393569",
+      "bbox": [
+        139.7371144,
+        35.6330134,
+        139.7499847,
+        35.6417957
+      ],
+      "pack": "plateau/53393569/building/flat.1f0edab3ba5a.topo.json.br",
+      "count": 552,
+      "height_max": 167.7
+    },
+    {
+      "mesh": "53393570",
+      "bbox": [
+        139.6246352,
+        35.6411657,
+        139.6380396,
+        35.6500896
+      ],
+      "pack": "plateau/53393570/building/flat.8f6202e74bbb.topo.json.br",
+      "count": 3546,
+      "height_max": 33.3
+    },
+    {
+      "mesh": "53393571",
+      "bbox": [
+        139.637287,
+        35.6415163,
+        139.6500468,
+        35.6500905
+      ],
+      "pack": "plateau/53393571/building/flat.df431a7aa889.topo.json.br",
+      "count": 4090,
+      "height_max": 33.9
+    },
+    {
+      "mesh": "53393572",
+      "bbox": [
+        139.6497712,
+        35.6411018,
+        139.6627951,
+        35.6500839
+      ],
+      "pack": "plateau/53393572/building/flat.dd6ef08177b3.topo.json.br",
+      "count": 4121,
+      "height_max": 66.8
+    },
+    {
+      "mesh": "53393573",
+      "bbox": [
+        139.6623402,
+        35.6413812,
+        139.6750664,
+        35.6500884
+      ],
+      "pack": "plateau/53393573/building/flat.d2bf299846eb.topo.json.br",
+      "count": 5104,
+      "height_max": 126.7
+    },
+    {
+      "mesh": "53393574",
+      "bbox": [
+        139.6747148,
+        35.6414483,
+        139.6875096,
+        35.650154
+      ],
+      "pack": "plateau/53393574/building/flat.3979e77f43d9.topo.json.br",
+      "count": 2254,
+      "height_max": 47.4
+    },
+    {
+      "mesh": "53393575",
+      "bbox": [
+        139.6871765,
+        35.641467,
+        139.7004712,
+        35.6501638
+      ],
+      "pack": "plateau/53393575/building/flat.32a105592c79.topo.json.br",
+      "count": 3560,
+      "height_max": 118.8
+    },
+    {
+      "mesh": "53393576",
+      "bbox": [
+        139.6993428,
+        35.6410304,
+        139.7128361,
+        35.6501355
+      ],
+      "pack": "plateau/53393576/building/flat.8be7c21039f0.topo.json.br",
+      "count": 2258,
+      "height_max": 162.6
+    },
+    {
+      "mesh": "53393577",
+      "bbox": [
+        139.7122543,
+        35.641244,
+        139.7250929,
+        35.6503849
+      ],
+      "pack": "plateau/53393577/building/flat.453a903223a8.topo.json.br",
+      "count": 3494,
+      "height_max": 175.9
+    },
+    {
+      "mesh": "53393578",
+      "bbox": [
+        139.7243752,
+        35.6414604,
+        139.737571,
+        35.6501079
+      ],
+      "pack": "plateau/53393578/building/flat.1d596a16d4e9.topo.json.br",
+      "count": 2638,
+      "height_max": 141.5
+    },
+    {
+      "mesh": "53393579",
+      "bbox": [
+        139.737025,
+        35.6409917,
+        139.7503155,
+        35.650028
+      ],
+      "pack": "plateau/53393579/building/flat.f4c2bc1fdd50.topo.json.br",
+      "count": 1677,
+      "height_max": 179.8
+    },
+    {
+      "mesh": "53393580",
+      "bbox": [
+        139.6241005,
+        35.6498257,
+        139.6377979,
+        35.6584044
+      ],
+      "pack": "plateau/53393580/building/flat.449f2e8bffb5.topo.json.br",
+      "count": 4150,
+      "height_max": 35.5
+    },
+    {
+      "mesh": "53393581",
+      "bbox": [
+        139.6365709,
+        35.6493579,
+        139.6502056,
+        35.6584366
+      ],
+      "pack": "plateau/53393581/building/flat.ac10a300d5ee.topo.json.br",
+      "count": 4247,
+      "height_max": 34.2
+    },
+    {
+      "mesh": "53393582",
+      "bbox": [
+        139.6496171,
+        35.649911,
+        139.6625853,
+        35.6584017
+      ],
+      "pack": "plateau/53393582/building/flat.8ec2a492770f.topo.json.br",
+      "count": 3913,
+      "height_max": 47.2
+    },
+    {
+      "mesh": "53393583",
+      "bbox": [
+        139.6622935,
+        35.6496655,
+        139.6751827,
+        35.6583884
+      ],
+      "pack": "plateau/53393583/building/flat.b0b7ef26fa40.topo.json.br",
+      "count": 4070,
+      "height_max": 37.9
+    },
+    {
+      "mesh": "53393584",
+      "bbox": [
+        139.6748063,
+        35.6497344,
+        139.6875135,
+        35.6583918
+      ],
+      "pack": "plateau/53393584/building/flat.4e68556b802b.topo.json.br",
+      "count": 3007,
+      "height_max": 100
+    },
+    {
+      "mesh": "53393585",
+      "bbox": [
+        139.6867324,
+        35.6496414,
+        139.7005444,
+        35.6589383
+      ],
+      "pack": "plateau/53393585/building/flat.db8ddbfc934b.topo.json.br",
+      "count": 2594,
+      "height_max": 189.4
+    },
+    {
+      "mesh": "53393586",
+      "bbox": [
+        139.6995975,
+        35.6496358,
+        139.7126739,
+        35.6594855
+      ],
+      "pack": "plateau/53393586/building/flat.c13e5b16abe8.topo.json.br",
+      "count": 2386,
+      "height_max": 185.6
+    },
+    {
+      "mesh": "53393587",
+      "bbox": [
+        139.7117403,
+        35.6496782,
+        139.7253037,
+        35.6586103
+      ],
+      "pack": "plateau/53393587/building/flat.7d04b95ac587.topo.json.br",
+      "count": 2168,
+      "height_max": 101
+    },
+    {
+      "mesh": "53393588",
+      "bbox": [
+        139.7248034,
+        35.649793,
+        139.7375942,
+        35.6584543
+      ],
+      "pack": "plateau/53393588/building/flat.de01f46a33b1.topo.json.br",
+      "count": 2163,
+      "height_max": 113.5
+    },
+    {
+      "mesh": "53393589",
+      "bbox": [
+        139.7373383,
+        35.6495218,
+        139.7499862,
+        35.659137
+      ],
+      "pack": "plateau/53393589/building/flat.11f7e90818ae.topo.json.br",
+      "count": 1809,
+      "height_max": 332.9
+    },
+    {
+      "mesh": "53393590",
+      "bbox": [
+        139.6244031,
+        35.6581782,
+        139.637648,
+        35.6667699
+      ],
+      "pack": "plateau/53393590/building/flat.37631a940999.topo.json.br",
+      "count": 3304,
+      "height_max": 50
+    },
+    {
+      "mesh": "53393591",
+      "bbox": [
+        139.6372895,
+        35.6581062,
+        139.6501297,
+        35.6667841
+      ],
+      "pack": "plateau/53393591/building/flat.1e0cd97490fa.topo.json.br",
+      "count": 4731,
+      "height_max": 30.2
+    },
+    {
+      "mesh": "53393592",
+      "bbox": [
+        139.6498008,
+        35.6576017,
+        139.6626086,
+        35.6667894
+      ],
+      "pack": "plateau/53393592/building/flat.445552cb78cb.topo.json.br",
+      "count": 4224,
+      "height_max": 35.6
+    },
+    {
+      "mesh": "53393593",
+      "bbox": [
+        139.662189,
+        35.6581827,
+        139.6750883,
+        35.6667707
+      ],
+      "pack": "plateau/53393593/building/flat.2c1ef841c9b2.topo.json.br",
+      "count": 4504,
+      "height_max": 55
+    },
+    {
+      "mesh": "53393594",
+      "bbox": [
+        139.6747168,
+        35.6581356,
+        139.6876305,
+        35.6667426
+      ],
+      "pack": "plateau/53393594/building/flat.73e508276938.topo.json.br",
+      "count": 2490,
+      "height_max": 58.3
+    },
+    {
+      "mesh": "53393595",
+      "bbox": [
+        139.6866671,
+        35.6580242,
+        139.7003392,
+        35.6669992
+      ],
+      "pack": "plateau/53393595/building/flat.aae727c85b91.topo.json.br",
+      "count": 2079,
+      "height_max": 144.5
+    },
+    {
+      "mesh": "53393596",
+      "bbox": [
+        139.6996743,
+        35.6579523,
+        139.7127732,
+        35.6668459
+      ],
+      "pack": "plateau/53393596/building/flat.c02fcead5e29.topo.json.br",
+      "count": 1822,
+      "height_max": 230.8
+    },
+    {
+      "mesh": "53393597",
+      "bbox": [
+        139.712021,
+        35.6579152,
+        139.7254432,
+        35.6668586
+      ],
+      "pack": "plateau/53393597/building/flat.0abee09372e0.topo.json.br",
+      "count": 2137,
+      "height_max": 79.4
+    },
+    {
+      "mesh": "53393598",
+      "bbox": [
+        139.7245966,
+        35.6580511,
+        139.737729,
+        35.6668717
+      ],
+      "pack": "plateau/53393598/building/flat.442a890f28a1.topo.json.br",
+      "count": 1549,
+      "height_max": 251
+    },
+    {
+      "mesh": "53393599",
+      "bbox": [
+        139.7372997,
+        35.6582465,
+        139.7500897,
+        35.6670606
+      ],
+      "pack": "plateau/53393599/building/flat.e716d6224b3d.topo.json.br",
+      "count": 915,
+      "height_max": 260.6
+    },
+    {
+      "mesh": "53393600",
+      "bbox": [
+        139.7499238,
+        35.5827633,
+        139.7624939,
+        35.5918165
+      ],
+      "pack": "plateau/53393600/building/flat.3372ea630ab4.topo.json.br",
+      "count": 118,
+      "height_max": 54.2
+    },
+    {
+      "mesh": "53393601",
+      "bbox": [
+        139.7623487,
+        35.5833291,
+        139.7748354,
+        35.5927529
+      ],
+      "pack": "plateau/53393601/building/flat.1dfcc17b407d.topo.json.br",
+      "count": 96,
+      "height_max": 49.1
+    },
+    {
+      "mesh": "53393602",
+      "bbox": [
+        139.7742978,
+        35.5827854,
+        139.7832534,
+        35.5916119
+      ],
+      "pack": "plateau/53393602/building/flat.f6e0fdad2a19.topo.json.br",
+      "count": 37,
+      "height_max": 39.2
+    },
+    {
+      "mesh": "53393604",
+      "bbox": [
+        139.8104901,
+        35.5886753,
+        139.8118966,
+        35.5914467
+      ],
+      "pack": "plateau/53393604/building/flat.c7425995b127.topo.json.br",
+      "count": 3,
+      "height_max": 9.3
+    },
+    {
+      "mesh": "53393605",
+      "bbox": [
+        139.8135131,
+        35.5899397,
+        139.8139593,
+        35.5911612
+      ],
+      "pack": "plateau/53393605/building/flat.0d8fff0beced.topo.json.br",
+      "count": 2,
+      "height_max": 5.4
+    },
+    {
+      "mesh": "53393610",
+      "bbox": [
+        139.7496398,
+        35.5911119,
+        139.7623695,
+        35.6006016
+      ],
+      "pack": "plateau/53393610/building/flat.415ac7aa4c79.topo.json.br",
+      "count": 284,
+      "height_max": 55.3
+    },
+    {
+      "mesh": "53393611",
+      "bbox": [
+        139.7624246,
+        35.5910932,
+        139.7750374,
+        35.6000143
+      ],
+      "pack": "plateau/53393611/building/flat.7cc5e57b132f.topo.json.br",
+      "count": 106,
+      "height_max": 53.1
+    },
+    {
+      "mesh": "53393613",
+      "bbox": [
+        139.7926311,
+        35.5917047,
+        139.7998587,
+        35.6000358
+      ],
+      "pack": "plateau/53393613/building/flat.9145d5671dc2.topo.json.br",
+      "count": 40,
+      "height_max": 45.1
+    },
+    {
+      "mesh": "53393614",
+      "bbox": [
+        139.7994429,
+        35.591593,
+        139.812521,
+        35.6000456
+      ],
+      "pack": "plateau/53393614/building/flat.cfad7154d5c9.topo.json.br",
+      "count": 22,
+      "height_max": 48.6
+    },
+    {
+      "mesh": "53393615",
+      "bbox": [
+        139.8126168,
+        35.5915853,
+        139.8219029,
+        35.6000072
+      ],
+      "pack": "plateau/53393615/building/flat.6ed6d9ca8bef.topo.json.br",
+      "count": 5,
+      "height_max": 8.6
+    },
+    {
+      "mesh": "53393616",
+      "bbox": [
+        139.8263392,
+        35.5967197,
+        139.826572,
+        35.5968745
+      ],
+      "pack": "plateau/53393616/building/flat.4c78142ddde3.topo.json.br",
+      "count": 2,
+      "height_max": 6.1
+    },
+    {
+      "mesh": "53393620",
+      "bbox": [
+        139.7495922,
+        35.5993025,
+        139.7620143,
+        35.6085193
+      ],
+      "pack": "plateau/53393620/building/flat.f309db739bb6.topo.json.br",
+      "count": 272,
+      "height_max": 90.3
+    },
+    {
+      "mesh": "53393621",
+      "bbox": [
+        139.7623593,
+        35.599905,
+        139.7645934,
+        35.6031936
+      ],
+      "pack": "plateau/53393621/building/flat.d796936509b1.topo.json.br",
+      "count": 6,
+      "height_max": 19.9
+    },
+    {
+      "mesh": "53393622",
+      "bbox": [
+        139.7842624,
+        35.6042367,
+        139.7873842,
+        35.6081623
+      ],
+      "pack": "plateau/53393622/building/flat.03c4ca273a77.topo.json.br",
+      "count": 10,
+      "height_max": 23
+    },
+    {
+      "mesh": "53393623",
+      "bbox": [
+        139.7875507,
+        35.5991914,
+        139.80014,
+        35.6072915
+      ],
+      "pack": "plateau/53393623/building/flat.a5889a0c8294.topo.json.br",
+      "count": 73,
+      "height_max": 42.1
+    },
+    {
+      "mesh": "53393624",
+      "bbox": [
+        139.7994056,
+        35.600176,
+        139.8117496,
+        35.6072546
+      ],
+      "pack": "plateau/53393624/building/flat.7c97e7d18b20.topo.json.br",
+      "count": 152,
+      "height_max": 44.4
+    },
+    {
+      "mesh": "53393625",
+      "bbox": [
+        139.8127373,
+        35.6046508,
+        139.8212019,
+        35.6084388
+      ],
+      "pack": "plateau/53393625/building/flat.ae10a0f61c8d.topo.json.br",
+      "count": 64,
+      "height_max": 37.3
+    },
+    {
+      "mesh": "53393630",
+      "bbox": [
+        139.7495258,
+        35.6081214,
+        139.7604194,
+        35.6166709
+      ],
+      "pack": "plateau/53393630/building/flat.a0011e582ce9.topo.json.br",
+      "count": 220,
+      "height_max": 87.2
+    },
+    {
+      "mesh": "53393631",
+      "bbox": [
+        139.7749536,
+        35.616641,
+        139.7750252,
+        35.6167078
+      ],
+      "pack": "plateau/53393631/building/flat.fa6524edcb1e.topo.json.br",
+      "count": 1,
+      "height_max": 3.3
+    },
+    {
+      "mesh": "53393632",
+      "bbox": [
+        139.7756545,
+        35.6083993,
+        139.7877286,
+        35.6171196
+      ],
+      "pack": "plateau/53393632/building/flat.f3f4243aae6c.topo.json.br",
+      "count": 84,
+      "height_max": 61.4
+    },
+    {
+      "mesh": "53393633",
+      "bbox": [
+        139.7869847,
+        35.6082944,
+        139.7956673,
+        35.6158119
+      ],
+      "pack": "plateau/53393633/building/flat.dcf2461da47d.topo.json.br",
+      "count": 46,
+      "height_max": 41.7
+    },
+    {
+      "mesh": "53393634",
+      "bbox": [
+        139.8047661,
+        35.6088099,
+        139.8123303,
+        35.6127765
+      ],
+      "pack": "plateau/53393634/building/flat.5e281c0022dd.topo.json.br",
+      "count": 15,
+      "height_max": 32.2
+    },
+    {
+      "mesh": "53393635",
+      "bbox": [
+        139.8124021,
+        35.6082891,
+        139.8180472,
+        35.6116852
+      ],
+      "pack": "plateau/53393635/building/flat.b71fa811f4a4.topo.json.br",
+      "count": 11,
+      "height_max": 13.2
+    },
+    {
+      "mesh": "53393636",
+      "bbox": [
+        139.8326031,
+        35.6135541,
+        139.8366844,
+        35.6166842
+      ],
+      "pack": "plateau/53393636/building/flat.fa3583e32502.topo.json.br",
+      "count": 8,
+      "height_max": 36.4
+    },
+    {
+      "mesh": "53393640",
+      "bbox": [
+        139.7494495,
+        35.6162421,
+        139.759375,
+        35.6249885
+      ],
+      "pack": "plateau/53393640/building/flat.397a3c64d567.topo.json.br",
+      "count": 213,
+      "height_max": 121.6
+    },
+    {
+      "mesh": "53393641",
+      "bbox": [
+        139.7676799,
+        35.6169076,
+        139.7753309,
+        35.6247696
+      ],
+      "pack": "plateau/53393641/building/flat.22aab3cdf1d2.topo.json.br",
+      "count": 93,
+      "height_max": 49.6
+    },
+    {
+      "mesh": "53393642",
+      "bbox": [
+        139.7747194,
+        35.6157489,
+        139.7861408,
+        35.625129
+      ],
+      "pack": "plateau/53393642/building/flat.089b433e2ba0.topo.json.br",
+      "count": 147,
+      "height_max": 103.3
+    },
+    {
+      "mesh": "53393643",
+      "bbox": [
+        139.7864669,
+        35.6167382,
+        139.7999678,
+        35.6252873
+      ],
+      "pack": "plateau/53393643/building/flat.56a457a4513a.topo.json.br",
+      "count": 65,
+      "height_max": 37.2
+    },
+    {
+      "mesh": "53393644",
+      "bbox": [
+        139.7998849,
+        35.6245574,
+        139.8004115,
+        35.6250906
+      ],
+      "pack": "plateau/53393644/building/flat.2e451a4fa30d.topo.json.br",
+      "count": 3,
+      "height_max": 6.4
+    },
+    {
+      "mesh": "53393646",
+      "bbox": [
+        139.8277211,
+        35.6172836,
+        139.8367703,
+        35.6259337
+      ],
+      "pack": "plateau/53393646/building/flat.934bdd55f1c6.topo.json.br",
+      "count": 91,
+      "height_max": 48.1
+    },
+    {
+      "mesh": "53393647",
+      "bbox": [
+        139.8385869,
+        35.6206418,
+        139.8390849,
+        35.6229349
+      ],
+      "pack": "plateau/53393647/building/flat.b9a41253abc9.topo.json.br",
+      "count": 2,
+      "height_max": 4.1
+    },
+    {
+      "mesh": "53393650",
+      "bbox": [
+        139.7489924,
+        35.6244221,
+        139.7587662,
+        35.6333659
+      ],
+      "pack": "plateau/53393650/building/flat.7683f10536ed.topo.json.br",
+      "count": 159,
+      "height_max": 143.1
+    },
+    {
+      "mesh": "53393651",
+      "bbox": [
+        139.7678415,
+        35.6243074,
+        139.7758729,
+        35.6296838
+      ],
+      "pack": "plateau/53393651/building/flat.430bb5127bf0.topo.json.br",
+      "count": 28,
+      "height_max": 124.4
+    },
+    {
+      "mesh": "53393652",
+      "bbox": [
+        139.7734658,
+        35.6236715,
+        139.7876294,
+        35.634385
+      ],
+      "pack": "plateau/53393652/building/flat.23b322349813.topo.json.br",
+      "count": 126,
+      "height_max": 139.4
+    },
+    {
+      "mesh": "53393653",
+      "bbox": [
+        139.7868298,
+        35.6244858,
+        139.8001301,
+        35.6339108
+      ],
+      "pack": "plateau/53393653/building/flat.3571f9cede4a.topo.json.br",
+      "count": 139,
+      "height_max": 116.6
+    },
+    {
+      "mesh": "53393654",
+      "bbox": [
+        139.7984632,
+        35.6254233,
+        139.801839,
+        35.6310011
+      ],
+      "pack": "plateau/53393654/building/flat.7b059dd7d047.topo.json.br",
+      "count": 8,
+      "height_max": 39.4
+    },
+    {
+      "mesh": "53393655",
+      "bbox": [
+        139.8215367,
+        35.6322357,
+        139.8249886,
+        35.6336662
+      ],
+      "pack": "plateau/53393655/building/flat.bfe8ac232565.topo.json.br",
+      "count": 18,
+      "height_max": 38.8
+    },
+    {
+      "mesh": "53393656",
+      "bbox": [
+        139.8249651,
+        35.6245703,
+        139.8374856,
+        35.6337321
+      ],
+      "pack": "plateau/53393656/building/flat.a9f31621ede7.topo.json.br",
+      "count": 153,
+      "height_max": 40.8
+    },
+    {
+      "mesh": "53393657",
+      "bbox": [
+        139.8371991,
+        35.6287698,
+        139.8397675,
+        35.6317487
+      ],
+      "pack": "plateau/53393657/building/flat.afd35845c514.topo.json.br",
+      "count": 9,
+      "height_max": 17
+    },
+    {
+      "mesh": "53393660",
+      "bbox": [
+        139.7495454,
+        35.6331496,
+        139.7595121,
+        35.6418792
+      ],
+      "pack": "plateau/53393660/building/flat.9e70e3327bef.topo.json.br",
+      "count": 175,
+      "height_max": 168.5
+    },
+    {
+      "mesh": "53393661",
+      "bbox": [
+        139.7736114,
+        35.6345611,
+        139.7736639,
+        35.6346039
+      ],
+      "pack": "plateau/53393661/building/flat.09e268607e19.topo.json.br",
+      "count": 1,
+      "height_max": 3.6
+    },
+    {
+      "mesh": "53393662",
+      "bbox": [
+        139.7753573,
+        35.632821,
+        139.7879118,
+        35.6432445
+      ],
+      "pack": "plateau/53393662/building/flat.83f881784416.topo.json.br",
+      "count": 125,
+      "height_max": 118.4
+    },
+    {
+      "mesh": "53393663",
+      "bbox": [
+        139.7866257,
+        35.6313752,
+        139.8000925,
+        35.641667
+      ],
+      "pack": "plateau/53393663/building/flat.423e3302e3a2.topo.json.br",
+      "count": 180,
+      "height_max": 119.9
+    },
+    {
+      "mesh": "53393664",
+      "bbox": [
+        139.7998314,
+        35.6366253,
+        139.8123439,
+        35.6419012
+      ],
+      "pack": "plateau/53393664/building/flat.075640d52a7a.topo.json.br",
+      "count": 146,
+      "height_max": 35.8
+    },
+    {
+      "mesh": "53393665",
+      "bbox": [
+        139.8196638,
+        35.6333889,
+        139.8253735,
+        35.6417123
+      ],
+      "pack": "plateau/53393665/building/flat.f972ef0c87bd.topo.json.br",
+      "count": 153,
+      "height_max": 36.6
+    },
+    {
+      "mesh": "53393666",
+      "bbox": [
+        139.8236318,
+        35.6328598,
+        139.8375829,
+        35.6416758
+      ],
+      "pack": "plateau/53393666/building/flat.1d49a109cf4e.topo.json.br",
+      "count": 420,
+      "height_max": 38.2
+    },
+    {
+      "mesh": "53393667",
+      "bbox": [
+        139.8370776,
+        35.6338723,
+        139.8404812,
+        35.6419403
+      ],
+      "pack": "plateau/53393667/building/flat.d407c173db66.topo.json.br",
+      "count": 50,
+      "height_max": 32.1
+    },
+    {
+      "mesh": "53393668",
+      "bbox": [
+        139.8551104,
+        35.6389196,
+        139.8628572,
+        35.641714
+      ],
+      "pack": "plateau/53393668/building/flat.b31beea23a69.topo.json.br",
+      "count": 13,
+      "height_max": 16.2
+    },
+    {
+      "mesh": "53393669",
+      "bbox": [
+        139.8626822,
+        35.6394224,
+        139.8715921,
+        35.641065
+      ],
+      "pack": "plateau/53393669/building/flat.923ebfedbbf1.topo.json.br",
+      "count": 32,
+      "height_max": 10.4
+    },
+    {
+      "mesh": "53393670",
+      "bbox": [
+        139.7495293,
+        35.641097,
+        139.760285,
+        35.6500573
+      ],
+      "pack": "plateau/53393670/building/flat.07d8c367b737.topo.json.br",
+      "count": 588,
+      "height_max": 125.3
+    },
+    {
+      "mesh": "53393671",
+      "bbox": [
+        139.7698179,
+        35.6462721,
+        139.7748814,
+        35.6497006
+      ],
+      "pack": "plateau/53393671/building/flat.bd748e8121c2.topo.json.br",
+      "count": 23,
+      "height_max": 73.2
+    },
+    {
+      "mesh": "53393672",
+      "bbox": [
+        139.7746376,
+        35.6416664,
+        139.787221,
+        35.6508166
+      ],
+      "pack": "plateau/53393672/building/flat.bb6f8ca64aa4.topo.json.br",
+      "count": 56,
+      "height_max": 71.6
+    },
+    {
+      "mesh": "53393673",
+      "bbox": [
+        139.7860221,
+        35.6406053,
+        139.8006217,
+        35.6511754
+      ],
+      "pack": "plateau/53393673/building/flat.8c6b476a8e4c.topo.json.br",
+      "count": 151,
+      "height_max": 155.2
+    },
+    {
+      "mesh": "53393674",
+      "bbox": [
+        139.7995765,
+        35.6411152,
+        139.8127074,
+        35.6500672
+      ],
+      "pack": "plateau/53393674/building/flat.f7b2c09ec0e5.topo.json.br",
+      "count": 361,
+      "height_max": 179.9
+    },
+    {
+      "mesh": "53393675",
+      "bbox": [
+        139.8124562,
+        35.6415729,
+        139.8249873,
+        35.6499862
+      ],
+      "pack": "plateau/53393675/building/flat.85ad3cab9b26.topo.json.br",
+      "count": 328,
+      "height_max": 46
+    },
+    {
+      "mesh": "53393676",
+      "bbox": [
+        139.82475,
+        35.6406406,
+        139.8379069,
+        35.6504432
+      ],
+      "pack": "plateau/53393676/building/flat.f5ee99ef042e.topo.json.br",
+      "count": 339,
+      "height_max": 81.9
+    },
+    {
+      "mesh": "53393677",
+      "bbox": [
+        139.8374583,
+        35.6412887,
+        139.8412041,
+        35.6492972
+      ],
+      "pack": "plateau/53393677/building/flat.6ead0f226a8e.topo.json.br",
+      "count": 106,
+      "height_max": 40.5
+    },
+    {
+      "mesh": "53393678",
+      "bbox": [
+        139.8504741,
+        35.6415981,
+        139.8624228,
+        35.6499962
+      ],
+      "pack": "plateau/53393678/building/flat.608e672245a7.topo.json.br",
+      "count": 232,
+      "height_max": 116.4
+    },
+    {
+      "mesh": "53393679",
+      "bbox": [
+        139.8620545,
+        35.6417534,
+        139.8751094,
+        35.6501717
+      ],
+      "pack": "plateau/53393679/building/flat.32032cd86792.topo.json.br",
+      "count": 752,
+      "height_max": 49.5
+    },
+    {
+      "mesh": "53393680",
+      "bbox": [
+        139.7497397,
+        35.6491036,
+        139.7627836,
+        35.6585747
+      ],
+      "pack": "plateau/53393680/building/flat.85f714c2552b.topo.json.br",
+      "count": 1494,
+      "height_max": 209.1
+    },
+    {
+      "mesh": "53393681",
+      "bbox": [
+        139.7615874,
+        35.6497584,
+        139.7753196,
+        35.6584631
+      ],
+      "pack": "plateau/53393681/building/flat.4f77a8fe31d4.topo.json.br",
+      "count": 242,
+      "height_max": 193.7
+    },
+    {
+      "mesh": "53393682",
+      "bbox": [
+        139.7741134,
+        35.6503823,
+        139.7877747,
+        35.6585858
+      ],
+      "pack": "plateau/53393682/building/flat.e889f6b232b2.topo.json.br",
+      "count": 348,
+      "height_max": 195.5
+    },
+    {
+      "mesh": "53393683",
+      "bbox": [
+        139.7875634,
+        35.6499749,
+        139.8005196,
+        35.6587816
+      ],
+      "pack": "plateau/53393683/building/flat.b5530b22f930.topo.json.br",
+      "count": 217,
+      "height_max": 178.8
+    },
+    {
+      "mesh": "53393684",
+      "bbox": [
+        139.7993082,
+        35.6499485,
+        139.812468,
+        35.6585919
+      ],
+      "pack": "plateau/53393684/building/flat.86c5157ff4f9.topo.json.br",
+      "count": 681,
+      "height_max": 102.2
+    },
+    {
+      "mesh": "53393685",
+      "bbox": [
+        139.8120546,
+        35.6500253,
+        139.8244018,
+        35.6594617
+      ],
+      "pack": "plateau/53393685/building/flat.7e6eac772105.topo.json.br",
+      "count": 337,
+      "height_max": 123.9
+    },
+    {
+      "mesh": "53393686",
+      "bbox": [
+        139.8243556,
+        35.6487253,
+        139.8374692,
+        35.6588283
+      ],
+      "pack": "plateau/53393686/building/flat.b4ac5f3c478b.topo.json.br",
+      "count": 127,
+      "height_max": 51.8
+    },
+    {
+      "mesh": "53393687",
+      "bbox": [
+        139.8378221,
+        35.65132,
+        139.8413519,
+        35.6582218
+      ],
+      "pack": "plateau/53393687/building/flat.c69b21166e12.topo.json.br",
+      "count": 61,
+      "height_max": 150.6
+    },
+    {
+      "mesh": "53393688",
+      "bbox": [
+        139.851325,
+        35.6492367,
+        139.8624603,
+        35.6584994
+      ],
+      "pack": "plateau/53393688/building/flat.b884f46c971a.topo.json.br",
+      "count": 393,
+      "height_max": 51
+    },
+    {
+      "mesh": "53393689",
+      "bbox": [
+        139.8620741,
+        35.6497983,
+        139.8750092,
+        35.6583697
+      ],
+      "pack": "plateau/53393689/building/flat.983eca30256a.topo.json.br",
+      "count": 2369,
+      "height_max": 49.8
+    },
+    {
+      "mesh": "53393690",
+      "bbox": [
+        139.7494771,
+        35.6577888,
+        139.7628809,
+        35.6678099
+      ],
+      "pack": "plateau/53393690/building/flat.2c9df996c80b.topo.json.br",
+      "count": 1610,
+      "height_max": 225.8
+    },
+    {
+      "mesh": "53393691",
+      "bbox": [
+        139.7615442,
+        35.6582468,
+        139.7752012,
+        35.6669142
+      ],
+      "pack": "plateau/53393691/building/flat.d1c6913327d5.topo.json.br",
+      "count": 797,
+      "height_max": 221.6
+    },
+    {
+      "mesh": "53393692",
+      "bbox": [
+        139.7746155,
+        35.6576956,
+        139.7877098,
+        35.667289
+      ],
+      "pack": "plateau/53393692/building/flat.07af4defe4f5.topo.json.br",
+      "count": 2384,
+      "height_max": 211.4
+    },
+    {
+      "mesh": "53393693",
+      "bbox": [
+        139.7852737,
+        35.6578883,
+        139.8001684,
+        35.6668351
+      ],
+      "pack": "plateau/53393693/building/flat.53704b219c3e.topo.json.br",
+      "count": 225,
+      "height_max": 182.7
+    },
+    {
+      "mesh": "53393694",
+      "bbox": [
+        139.7987229,
+        35.657744,
+        139.8124932,
+        35.6668147
+      ],
+      "pack": "plateau/53393694/building/flat.bc9f1ae34ed0.topo.json.br",
+      "count": 1229,
+      "height_max": 59.5
+    },
+    {
+      "mesh": "53393695",
+      "bbox": [
+        139.8109492,
+        35.6579251,
+        139.8249999,
+        35.6669163
+      ],
+      "pack": "plateau/53393695/building/flat.04c4dc020b17.topo.json.br",
+      "count": 389,
+      "height_max": 53
+    },
+    {
+      "mesh": "53393696",
+      "bbox": [
+        139.8241556,
+        35.6580688,
+        139.8377258,
+        35.6666671
+      ],
+      "pack": "plateau/53393696/building/flat.dc3481c7d07a.topo.json.br",
+      "count": 268,
+      "height_max": 49.4
+    },
+    {
+      "mesh": "53393697",
+      "bbox": [
+        139.8369377,
+        35.6586069,
+        139.8432467,
+        35.6666837
+      ],
+      "pack": "plateau/53393697/building/flat.3399461f9a72.topo.json.br",
+      "count": 148,
+      "height_max": 91.3
+    },
+    {
+      "mesh": "53393698",
+      "bbox": [
+        139.8514259,
+        35.6579845,
+        139.8626134,
+        35.6667531
+      ],
+      "pack": "plateau/53393698/building/flat.cb4e42f4176c.topo.json.br",
+      "count": 1187,
+      "height_max": 72.8
+    },
+    {
+      "mesh": "53393699",
+      "bbox": [
+        139.8623485,
+        35.6580642,
+        139.8750815,
+        35.6667671
+      ],
+      "pack": "plateau/53393699/building/flat.0d4c29ba052a.topo.json.br",
+      "count": 2517,
+      "height_max": 64.1
+    },
+    {
+      "mesh": "53393770",
+      "bbox": [
+        139.8746567,
+        35.6432843,
+        139.8832419,
+        35.6500221
+      ],
+      "pack": "plateau/53393770/building/flat.f487c31b703d.topo.json.br",
+      "count": 817,
+      "height_max": 45.7
+    },
+    {
+      "mesh": "53393780",
+      "bbox": [
+        139.8748273,
+        35.6496099,
+        139.8857468,
+        35.6583464
+      ],
+      "pack": "plateau/53393780/building/flat.a6d2d44bdff1.topo.json.br",
+      "count": 1719,
+      "height_max": 42.8
+    },
+    {
+      "mesh": "53393790",
+      "bbox": [
+        139.8747965,
+        35.6580569,
+        139.8865155,
+        35.666735
+      ],
+      "pack": "plateau/53393790/building/flat.9315ba414475.topo.json.br",
+      "count": 2523,
+      "height_max": 46.4
+    },
+    {
+      "mesh": "53394406",
+      "bbox": [
+        139.5825213,
+        35.6712671,
+        139.5875196,
+        35.6750359
+      ],
+      "pack": "plateau/53394406/building/flat.7b743704ddee.topo.json.br",
+      "count": 192,
+      "height_max": 47
+    },
+    {
+      "mesh": "53394407",
+      "bbox": [
+        139.5867023,
+        35.6663217,
+        139.6000924,
+        35.6750841
+      ],
+      "pack": "plateau/53394407/building/flat.dd142140c819.topo.json.br",
+      "count": 2724,
+      "height_max": 95.8
+    },
+    {
+      "mesh": "53394408",
+      "bbox": [
+        139.5991189,
+        35.6661707,
+        139.6132855,
+        35.6750833
+      ],
+      "pack": "plateau/53394408/building/flat.c7e70bbf5b40.topo.json.br",
+      "count": 3242,
+      "height_max": 43
+    },
+    {
+      "mesh": "53394409",
+      "bbox": [
+        139.6121606,
+        35.6663076,
+        139.6257103,
+        35.6750439
+      ],
+      "pack": "plateau/53394409/building/flat.200e87d6e7f0.topo.json.br",
+      "count": 2994,
+      "height_max": 42.2
+    },
+    {
+      "mesh": "53394416",
+      "bbox": [
+        139.5859309,
+        35.6749853,
+        139.5878281,
+        35.6827741
+      ],
+      "pack": "plateau/53394416/building/flat.f62151aa1784.topo.json.br",
+      "count": 108,
+      "height_max": 19.3
+    },
+    {
+      "mesh": "53394417",
+      "bbox": [
+        139.5872921,
+        35.6747667,
+        139.6004006,
+        35.6833436
+      ],
+      "pack": "plateau/53394417/building/flat.b828f802e1d9.topo.json.br",
+      "count": 2237,
+      "height_max": 34.2
+    },
+    {
+      "mesh": "53394418",
+      "bbox": [
+        139.5993575,
+        35.6749081,
+        139.6128171,
+        35.6834126
+      ],
+      "pack": "plateau/53394418/building/flat.aad700fe2354.topo.json.br",
+      "count": 2857,
+      "height_max": 44.1
+    },
+    {
+      "mesh": "53394419",
+      "bbox": [
+        139.6119736,
+        35.6746642,
+        139.6252352,
+        35.6836373
+      ],
+      "pack": "plateau/53394419/building/flat.b9e58c709033.topo.json.br",
+      "count": 2913,
+      "height_max": 47.1
+    },
+    {
+      "mesh": "53394427",
+      "bbox": [
+        139.5905965,
+        35.6822482,
+        139.6002,
+        35.6917202
+      ],
+      "pack": "plateau/53394427/building/flat.cb6fb5a966eb.topo.json.br",
+      "count": 2195,
+      "height_max": 22.6
+    },
+    {
+      "mesh": "53394428",
+      "bbox": [
+        139.5997237,
+        35.6831498,
+        139.6126179,
+        35.6917217
+      ],
+      "pack": "plateau/53394428/building/flat.8340b5227f76.topo.json.br",
+      "count": 3322,
+      "height_max": 34.1
+    },
+    {
+      "mesh": "53394429",
+      "bbox": [
+        139.6121955,
+        35.6830382,
+        139.6250827,
+        35.6917595
+      ],
+      "pack": "plateau/53394429/building/flat.760b84b933dc.topo.json.br",
+      "count": 2545,
+      "height_max": 44.2
+    },
+    {
+      "mesh": "53394436",
+      "bbox": [
+        139.5868343,
+        35.6937388,
+        139.5874985,
+        35.6947603
+      ],
+      "pack": "plateau/53394436/building/flat.f211e6cb3f2d.topo.json.br",
+      "count": 17,
+      "height_max": 11
+    },
+    {
+      "mesh": "53394437",
+      "bbox": [
+        139.5873402,
+        35.6915294,
+        139.600135,
+        35.7000469
+      ],
+      "pack": "plateau/53394437/building/flat.6e2a58bbf88f.topo.json.br",
+      "count": 3406,
+      "height_max": 27.5
+    },
+    {
+      "mesh": "53394438",
+      "bbox": [
+        139.5997013,
+        35.6904105,
+        139.6126631,
+        35.7000274
+      ],
+      "pack": "plateau/53394438/building/flat.d8f1946740b6.topo.json.br",
+      "count": 3940,
+      "height_max": 24.7
+    },
+    {
+      "mesh": "53394439",
+      "bbox": [
+        139.6119488,
+        35.6914985,
+        139.6250751,
+        35.7001001
+      ],
+      "pack": "plateau/53394439/building/flat.6719dcbbf268.topo.json.br",
+      "count": 3998,
+      "height_max": 28.4
+    },
+    {
+      "mesh": "53394447",
+      "bbox": [
+        139.5920025,
+        35.6998821,
+        139.6001218,
+        35.7084541
+      ],
+      "pack": "plateau/53394447/building/flat.c603374fe9ed.topo.json.br",
+      "count": 2240,
+      "height_max": 44
+    },
+    {
+      "mesh": "53394448",
+      "bbox": [
+        139.5983214,
+        35.6998773,
+        139.6125987,
+        35.7084056
+      ],
+      "pack": "plateau/53394448/building/flat.3654e6360ad7.topo.json.br",
+      "count": 4150,
+      "height_max": 44.2
+    },
+    {
+      "mesh": "53394449",
+      "bbox": [
+        139.6122668,
+        35.6998725,
+        139.6254067,
+        35.7084468
+      ],
+      "pack": "plateau/53394449/building/flat.b4f39a021af3.topo.json.br",
+      "count": 3692,
+      "height_max": 90
+    },
+    {
+      "mesh": "53394456",
+      "bbox": [
+        139.5780235,
+        35.7115215,
+        139.5876285,
+        35.716746
+      ],
+      "pack": "plateau/53394456/building/flat.539934171726.topo.json.br",
+      "count": 1153,
+      "height_max": 29.6
+    },
+    {
+      "mesh": "53394457",
+      "bbox": [
+        139.5872274,
+        35.7079685,
+        139.6000905,
+        35.7167372
+      ],
+      "pack": "plateau/53394457/building/flat.4a0816b2e651.topo.json.br",
+      "count": 3152,
+      "height_max": 33.5
+    },
+    {
+      "mesh": "53394458",
+      "bbox": [
+        139.5997958,
+        35.7081176,
+        139.6125701,
+        35.7167879
+      ],
+      "pack": "plateau/53394458/building/flat.ae7561d8de77.topo.json.br",
+      "count": 3940,
+      "height_max": 45.4
+    },
+    {
+      "mesh": "53394459",
+      "bbox": [
+        139.6121984,
+        35.7080721,
+        139.6252297,
+        35.7167753
+      ],
+      "pack": "plateau/53394459/building/flat.b262aa80241d.topo.json.br",
+      "count": 4453,
+      "height_max": 39.9
+    },
+    {
+      "mesh": "53394465",
+      "bbox": [
+        139.5654565,
+        35.719075,
+        139.5750373,
+        35.7250468
+      ],
+      "pack": "plateau/53394465/building/flat.fd63b3d4f0b7.topo.json.br",
+      "count": 1045,
+      "height_max": 31.8
+    },
+    {
+      "mesh": "53394466",
+      "bbox": [
+        139.5748176,
+        35.7165831,
+        139.5876828,
+        35.7250894
+      ],
+      "pack": "plateau/53394466/building/flat.458e08b9f059.topo.json.br",
+      "count": 3404,
+      "height_max": 29.9
+    },
+    {
+      "mesh": "53394467",
+      "bbox": [
+        139.587321,
+        35.7165228,
+        139.6000194,
+        35.7251128
+      ],
+      "pack": "plateau/53394467/building/flat.b8bf852ec9e5.topo.json.br",
+      "count": 3211,
+      "height_max": 43
+    },
+    {
+      "mesh": "53394468",
+      "bbox": [
+        139.59958,
+        35.7165743,
+        139.6125684,
+        35.725138
+      ],
+      "pack": "plateau/53394468/building/flat.75251933f64c.topo.json.br",
+      "count": 2777,
+      "height_max": 24.5
+    },
+    {
+      "mesh": "53394469",
+      "bbox": [
+        139.6124151,
+        35.7159712,
+        139.6260909,
+        35.725094
+      ],
+      "pack": "plateau/53394469/building/flat.7d9911132a37.topo.json.br",
+      "count": 3663,
+      "height_max": 38.5
+    },
+    {
+      "mesh": "53394475",
+      "bbox": [
+        139.5661088,
+        35.7249299,
+        139.5750611,
+        35.733398
+      ],
+      "pack": "plateau/53394475/building/flat.db99457d99e1.topo.json.br",
+      "count": 1698,
+      "height_max": 45
+    },
+    {
+      "mesh": "53394476",
+      "bbox": [
+        139.5744564,
+        35.7247991,
+        139.5876998,
+        35.7334371
+      ],
+      "pack": "plateau/53394476/building/flat.c574dc5d8e84.topo.json.br",
+      "count": 2972,
+      "height_max": 45.6
+    },
+    {
+      "mesh": "53394477",
+      "bbox": [
+        139.5868325,
+        35.7247989,
+        139.6003013,
+        35.7333662
+      ],
+      "pack": "plateau/53394477/building/flat.76ef2b876574.topo.json.br",
+      "count": 2834,
+      "height_max": 38.9
+    },
+    {
+      "mesh": "53394478",
+      "bbox": [
+        139.5996182,
+        35.7248372,
+        139.613156,
+        35.7334106
+      ],
+      "pack": "plateau/53394478/building/flat.3095c4f44416.topo.json.br",
+      "count": 3757,
+      "height_max": 38
+    },
+    {
+      "mesh": "53394479",
+      "bbox": [
+        139.6116639,
+        35.7247674,
+        139.6250742,
+        35.7334357
+      ],
+      "pack": "plateau/53394479/building/flat.2fce82f66da6.topo.json.br",
+      "count": 3182,
+      "height_max": 44
+    },
+    {
+      "mesh": "53394485",
+      "bbox": [
+        139.5674707,
+        35.7332897,
+        139.5753949,
+        35.7416967
+      ],
+      "pack": "plateau/53394485/building/flat.919d3e93bb1e.topo.json.br",
+      "count": 2335,
+      "height_max": 22.2
+    },
+    {
+      "mesh": "53394486",
+      "bbox": [
+        139.5747768,
+        35.733021,
+        139.5875775,
+        35.7417429
+      ],
+      "pack": "plateau/53394486/building/flat.0ada575a4d6a.topo.json.br",
+      "count": 4253,
+      "height_max": 29.5
+    },
+    {
+      "mesh": "53394487",
+      "bbox": [
+        139.5873369,
+        35.7328423,
+        139.6000744,
+        35.7417599
+      ],
+      "pack": "plateau/53394487/building/flat.a2be33b21147.topo.json.br",
+      "count": 2726,
+      "height_max": 33.8
+    },
+    {
+      "mesh": "53394488",
+      "bbox": [
+        139.5992625,
+        35.7332752,
+        139.6126723,
+        35.7417889
+      ],
+      "pack": "plateau/53394488/building/flat.7ebef505fab8.topo.json.br",
+      "count": 2931,
+      "height_max": 23.8
+    },
+    {
+      "mesh": "53394489",
+      "bbox": [
+        139.6123133,
+        35.7331104,
+        139.6251502,
+        35.7418838
+      ],
+      "pack": "plateau/53394489/building/flat.ec5ad38c881b.topo.json.br",
+      "count": 3561,
+      "height_max": 50.6
+    },
+    {
+      "mesh": "53394495",
+      "bbox": [
+        139.5665227,
+        35.7415573,
+        139.5750494,
+        35.750054
+      ],
+      "pack": "plateau/53394495/building/flat.5b26a3f705a3.topo.json.br",
+      "count": 2016,
+      "height_max": 42.9
+    },
+    {
+      "mesh": "53394496",
+      "bbox": [
+        139.574727,
+        35.7415362,
+        139.5880505,
+        35.7500899
+      ],
+      "pack": "plateau/53394496/building/flat.08611f702e6d.topo.json.br",
+      "count": 3945,
+      "height_max": 99.9
+    },
+    {
+      "mesh": "53394497",
+      "bbox": [
+        139.5872527,
+        35.7413836,
+        139.6002355,
+        35.7500566
+      ],
+      "pack": "plateau/53394497/building/flat.bf213a6a7b22.topo.json.br",
+      "count": 3398,
+      "height_max": 36.3
+    },
+    {
+      "mesh": "53394498",
+      "bbox": [
+        139.5998464,
+        35.7413604,
+        139.6126312,
+        35.7502708
+      ],
+      "pack": "plateau/53394498/building/flat.445f0576b39b.topo.json.br",
+      "count": 3181,
+      "height_max": 110
+    },
+    {
+      "mesh": "53394499",
+      "bbox": [
+        139.61221,
+        35.7414027,
+        139.6251548,
+        35.7500797
+      ],
+      "pack": "plateau/53394499/building/flat.10a9ce07c2f6.topo.json.br",
+      "count": 2830,
+      "height_max": 51.9
+    },
+    {
+      "mesh": "53394500",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pack": "plateau/53394500/building/flat.47f09c3e5dac.topo.json.br",
+      "count": 0,
+      "height_max": 0
+    },
+    {
+      "mesh": "53394600",
+      "bbox": [
+        139.749322,
+        35.666556,
+        139.7627535,
+        35.6752999
+      ],
+      "pack": "plateau/53394600/building/flat.834799158270.topo.json.br",
+      "count": 1272,
+      "height_max": 204.2
+    },
+    {
+      "mesh": "53394601",
+      "bbox": [
+        139.7619139,
+        35.6661067,
+        139.7751715,
+        35.6751345
+      ],
+      "pack": "plateau/53394601/building/flat.cacae594dc85.topo.json.br",
+      "count": 2201,
+      "height_max": 156.2
+    },
+    {
+      "mesh": "53394602",
+      "bbox": [
+        139.7744535,
+        35.6665805,
+        139.7871592,
+        35.6752322
+      ],
+      "pack": "plateau/53394602/building/flat.17499a1cd532.topo.json.br",
+      "count": 1684,
+      "height_max": 176.2
+    },
+    {
+      "mesh": "53394603",
+      "bbox": [
+        139.7884954,
+        35.6662978,
+        139.8004824,
+        35.6750836
+      ],
+      "pack": "plateau/53394603/building/flat.ae753f7f996e.topo.json.br",
+      "count": 2813,
+      "height_max": 69.1
+    },
+    {
+      "mesh": "53394604",
+      "bbox": [
+        139.7996502,
+        35.6652963,
+        139.8125755,
+        35.6751583
+      ],
+      "pack": "plateau/53394604/building/flat.1fc83da7fc92.topo.json.br",
+      "count": 2366,
+      "height_max": 118.6
+    },
+    {
+      "mesh": "53394605",
+      "bbox": [
+        139.8119539,
+        35.6661765,
+        139.825024,
+        35.6751917
+      ],
+      "pack": "plateau/53394605/building/flat.f23dbae3378e.topo.json.br",
+      "count": 1223,
+      "height_max": 82.3
+    },
+    {
+      "mesh": "53394606",
+      "bbox": [
+        139.824648,
+        35.6658013,
+        139.8377161,
+        35.6750248
+      ],
+      "pack": "plateau/53394606/building/flat.efb16788d5c4.topo.json.br",
+      "count": 1573,
+      "height_max": 87.8
+    },
+    {
+      "mesh": "53394607",
+      "bbox": [
+        139.8372445,
+        35.6662991,
+        139.8435094,
+        35.6750041
+      ],
+      "pack": "plateau/53394607/building/flat.abaa3bce1f41.topo.json.br",
+      "count": 1460,
+      "height_max": 44.9
+    },
+    {
+      "mesh": "53394608",
+      "bbox": [
+        139.8515098,
+        35.665522,
+        139.863645,
+        35.6751658
+      ],
+      "pack": "plateau/53394608/building/flat.cb62d3dcfe3e.topo.json.br",
+      "count": 2011,
+      "height_max": 61
+    },
+    {
+      "mesh": "53394609",
+      "bbox": [
+        139.861981,
+        35.6658969,
+        139.8753388,
+        35.6750975
+      ],
+      "pack": "plateau/53394609/building/flat.151f81ad02b9.topo.json.br",
+      "count": 2665,
+      "height_max": 45.4
+    },
+    {
+      "mesh": "53394610",
+      "bbox": [
+        139.7495257,
+        35.6745025,
+        139.7628945,
+        35.6833387
+      ],
+      "pack": "plateau/53394610/building/flat.d2741ca61d95.topo.json.br",
+      "count": 116,
+      "height_max": 151.9
+    },
+    {
+      "mesh": "53394611",
+      "bbox": [
+        139.7619216,
+        35.6741511,
+        139.7756735,
+        35.6839964
+      ],
+      "pack": "plateau/53394611/building/flat.6dc21ed12465.topo.json.br",
+      "count": 928,
+      "height_max": 214
+    },
+    {
+      "mesh": "53394612",
+      "bbox": [
+        139.773974,
+        35.6745802,
+        139.787601,
+        35.6838225
+      ],
+      "pack": "plateau/53394612/building/flat.0feffd52a309.topo.json.br",
+      "count": 2137,
+      "height_max": 122
+    },
+    {
+      "mesh": "53394613",
+      "bbox": [
+        139.7872879,
+        35.6746768,
+        139.7999978,
+        35.6834984
+      ],
+      "pack": "plateau/53394613/building/flat.c9d042251f2e.topo.json.br",
+      "count": 2127,
+      "height_max": 99.8
+    },
+    {
+      "mesh": "53394614",
+      "bbox": [
+        139.7996368,
+        35.6744522,
+        139.8125513,
+        35.68353
+      ],
+      "pack": "plateau/53394614/building/flat.75aa1faf6168.topo.json.br",
+      "count": 2919,
+      "height_max": 116.8
+    },
+    {
+      "mesh": "53394615",
+      "bbox": [
+        139.8121004,
+        35.6745849,
+        139.8252588,
+        35.6834653
+      ],
+      "pack": "plateau/53394615/building/flat.9afc7b242a1b.topo.json.br",
+      "count": 3114,
+      "height_max": 97.7
+    },
+    {
+      "mesh": "53394616",
+      "bbox": [
+        139.8246963,
+        35.6744334,
+        139.837701,
+        35.6837197
+      ],
+      "pack": "plateau/53394616/building/flat.029607abf272.topo.json.br",
+      "count": 5080,
+      "height_max": 85.8
+    },
+    {
+      "mesh": "53394617",
+      "bbox": [
+        139.8373688,
+        35.6746089,
+        139.8475297,
+        35.6833503
+      ],
+      "pack": "plateau/53394617/building/flat.efa897041547.topo.json.br",
+      "count": 2773,
+      "height_max": 63
+    },
+    {
+      "mesh": "53394618",
+      "bbox": [
+        139.8521568,
+        35.6743664,
+        139.8627587,
+        35.6834335
+      ],
+      "pack": "plateau/53394618/building/flat.03560f0550a0.topo.json.br",
+      "count": 2547,
+      "height_max": 64.4
+    },
+    {
+      "mesh": "53394619",
+      "bbox": [
+        139.8620685,
+        35.6746095,
+        139.8750859,
+        35.6835396
+      ],
+      "pack": "plateau/53394619/building/flat.7ebb630c6b39.topo.json.br",
+      "count": 3850,
+      "height_max": 87
+    },
+    {
+      "mesh": "53394620",
+      "bbox": [
+        139.7500972,
+        35.6832228,
+        139.7631655,
+        35.6916815
+      ],
+      "pack": "plateau/53394620/building/flat.f05ca6762e88.topo.json.br",
+      "count": 203,
+      "height_max": 160.6
+    },
+    {
+      "mesh": "53394621",
+      "bbox": [
+        139.7619841,
+        35.682467,
+        139.7753496,
+        35.6919071
+      ],
+      "pack": "plateau/53394621/building/flat.7f8dba65d979.topo.json.br",
+      "count": 1188,
+      "height_max": 203
+    },
+    {
+      "mesh": "53394622",
+      "bbox": [
+        139.7745162,
+        35.6829602,
+        139.7875189,
+        35.6918085
+      ],
+      "pack": "plateau/53394622/building/flat.9a0a78bf419b.topo.json.br",
+      "count": 3084,
+      "height_max": 141.7
+    },
+    {
+      "mesh": "53394623",
+      "bbox": [
+        139.7872639,
+        35.6827328,
+        139.8000529,
+        35.6918944
+      ],
+      "pack": "plateau/53394623/building/flat.15069fd9581e.topo.json.br",
+      "count": 3220,
+      "height_max": 161.9
+    },
+    {
+      "mesh": "53394624",
+      "bbox": [
+        139.7997851,
+        35.6827748,
+        139.8125511,
+        35.6918671
+      ],
+      "pack": "plateau/53394624/building/flat.09a597ec880a.topo.json.br",
+      "count": 3841,
+      "height_max": 113.7
+    },
+    {
+      "mesh": "53394625",
+      "bbox": [
+        139.8124092,
+        35.6830308,
+        139.8249976,
+        35.6917581
+      ],
+      "pack": "plateau/53394625/building/flat.35d983696e3b.topo.json.br",
+      "count": 2880,
+      "height_max": 133.3
+    },
+    {
+      "mesh": "53394626",
+      "bbox": [
+        139.8246844,
+        35.6813444,
+        139.8377108,
+        35.6917216
+      ],
+      "pack": "plateau/53394626/building/flat.9214d8039b7b.topo.json.br",
+      "count": 3307,
+      "height_max": 61.6
+    },
+    {
+      "mesh": "53394627",
+      "bbox": [
+        139.8372526,
+        35.6830896,
+        139.8500539,
+        35.6918105
+      ],
+      "pack": "plateau/53394627/building/flat.8860b6552746.topo.json.br",
+      "count": 2737,
+      "height_max": 98.8
+    },
+    {
+      "mesh": "53394628",
+      "bbox": [
+        139.8499185,
+        35.6831876,
+        139.8625479,
+        35.6917898
+      ],
+      "pack": "plateau/53394628/building/flat.5ecfee7164f9.topo.json.br",
+      "count": 801,
+      "height_max": 103.1
+    },
+    {
+      "mesh": "53394629",
+      "bbox": [
+        139.8617454,
+        35.6827376,
+        139.8753463,
+        35.6917902
+      ],
+      "pack": "plateau/53394629/building/flat.9eafb91be64d.topo.json.br",
+      "count": 3083,
+      "height_max": 63.2
+    },
+    {
+      "mesh": "53394630",
+      "bbox": [
+        139.7496628,
+        35.6911706,
+        139.7626589,
+        35.7006178
+      ],
+      "pack": "plateau/53394630/building/flat.72b3d9e2b17b.topo.json.br",
+      "count": 1775,
+      "height_max": 115.6
+    },
+    {
+      "mesh": "53394631",
+      "bbox": [
+        139.761856,
+        35.6905504,
+        139.7750155,
+        35.7001356
+      ],
+      "pack": "plateau/53394631/building/flat.e059eefc354e.topo.json.br",
+      "count": 2378,
+      "height_max": 164.6
+    },
+    {
+      "mesh": "53394632",
+      "bbox": [
+        139.7744201,
+        35.691411,
+        139.7876121,
+        35.7000237
+      ],
+      "pack": "plateau/53394632/building/flat.da9296f86355.topo.json.br",
+      "count": 3501,
+      "height_max": 77.3
+    },
+    {
+      "mesh": "53394633",
+      "bbox": [
+        139.7871564,
+        35.6914673,
+        139.8000717,
+        35.7001477
+      ],
+      "pack": "plateau/53394633/building/flat.4864b24bcc02.topo.json.br",
+      "count": 2239,
+      "height_max": 155.5
+    },
+    {
+      "mesh": "53394634",
+      "bbox": [
+        139.7997602,
+        35.6911383,
+        139.8125693,
+        35.7001471
+      ],
+      "pack": "plateau/53394634/building/flat.e10b89fe5c85.topo.json.br",
+      "count": 2868,
+      "height_max": 99.6
+    },
+    {
+      "mesh": "53394635",
+      "bbox": [
+        139.8119018,
+        35.6913318,
+        139.8250165,
+        35.7005403
+      ],
+      "pack": "plateau/53394635/building/flat.5977b234576a.topo.json.br",
+      "count": 2073,
+      "height_max": 96.4
+    },
+    {
+      "mesh": "53394636",
+      "bbox": [
+        139.8246479,
+        35.6913969,
+        139.8377123,
+        35.7000988
+      ],
+      "pack": "plateau/53394636/building/flat.bc5f997109ee.topo.json.br",
+      "count": 3298,
+      "height_max": 68
+    },
+    {
+      "mesh": "53394637",
+      "bbox": [
+        139.8371106,
+        35.691007,
+        139.849965,
+        35.700131
+      ],
+      "pack": "plateau/53394637/building/flat.b84192af4fbf.topo.json.br",
+      "count": 2439,
+      "height_max": 63.1
+    },
+    {
+      "mesh": "53394638",
+      "bbox": [
+        139.8494548,
+        35.6914027,
+        139.8625944,
+        35.7000732
+      ],
+      "pack": "plateau/53394638/building/flat.bddcb79242cd.topo.json.br",
+      "count": 412,
+      "height_max": 60.9
+    },
+    {
+      "mesh": "53394639",
+      "bbox": [
+        139.8623003,
+        35.6913083,
+        139.8750506,
+        35.7001079
+      ],
+      "pack": "plateau/53394639/building/flat.17f2e899694a.topo.json.br",
+      "count": 4730,
+      "height_max": 44.6
+    },
+    {
+      "mesh": "53394640",
+      "bbox": [
+        139.7493306,
+        35.6995832,
+        139.7625508,
+        35.7086908
+      ],
+      "pack": "plateau/53394640/building/flat.b35576cf2791.topo.json.br",
+      "count": 1757,
+      "height_max": 156
+    },
+    {
+      "mesh": "53394641",
+      "bbox": [
+        139.7621117,
+        35.6995468,
+        139.7751699,
+        35.7084576
+      ],
+      "pack": "plateau/53394641/building/flat.276ac92ba6fc.topo.json.br",
+      "count": 3172,
+      "height_max": 146.1
+    },
+    {
+      "mesh": "53394642",
+      "bbox": [
+        139.7746309,
+        35.6993507,
+        139.7877544,
+        35.7083436
+      ],
+      "pack": "plateau/53394642/building/flat.d87a4af963eb.topo.json.br",
+      "count": 5094,
+      "height_max": 124.9
+    },
+    {
+      "mesh": "53394643",
+      "bbox": [
+        139.7872155,
+        35.6990771,
+        139.8001186,
+        35.7084017
+      ],
+      "pack": "plateau/53394643/building/flat.d03eb55a9907.topo.json.br",
+      "count": 3022,
+      "height_max": 93.9
+    },
+    {
+      "mesh": "53394644",
+      "bbox": [
+        139.7998716,
+        35.6998797,
+        139.8125977,
+        35.7084683
+      ],
+      "pack": "plateau/53394644/building/flat.93d1fa72002e.topo.json.br",
+      "count": 4231,
+      "height_max": 51.8
+    },
+    {
+      "mesh": "53394645",
+      "bbox": [
+        139.8123522,
+        35.6998846,
+        139.8251317,
+        35.708471
+      ],
+      "pack": "plateau/53394645/building/flat.cb50639885d0.topo.json.br",
+      "count": 3573,
+      "height_max": 158.2
+    },
+    {
+      "mesh": "53394646",
+      "bbox": [
+        139.8246494,
+        35.6994956,
+        139.8376284,
+        35.7084233
+      ],
+      "pack": "plateau/53394646/building/flat.279c7cb9faf3.topo.json.br",
+      "count": 3335,
+      "height_max": 51.5
+    },
+    {
+      "mesh": "53394647",
+      "bbox": [
+        139.8371257,
+        35.6996475,
+        139.8502754,
+        35.7084137
+      ],
+      "pack": "plateau/53394647/building/flat.a1be1cdfacf7.topo.json.br",
+      "count": 4138,
+      "height_max": 70.2
+    },
+    {
+      "mesh": "53394648",
+      "bbox": [
+        139.8498643,
+        35.6999236,
+        139.8625907,
+        35.708365
+      ],
+      "pack": "plateau/53394648/building/flat.3ebf39ebb4aa.topo.json.br",
+      "count": 1781,
+      "height_max": 45.8
+    },
+    {
+      "mesh": "53394649",
+      "bbox": [
+        139.8622503,
+        35.6998456,
+        139.8752898,
+        35.7083869
+      ],
+      "pack": "plateau/53394649/building/flat.d1e21d56a558.topo.json.br",
+      "count": 4148,
+      "height_max": 50.7
+    },
+    {
+      "mesh": "53394650",
+      "bbox": [
+        139.7497514,
+        35.7080561,
+        139.76277,
+        35.7168168
+      ],
+      "pack": "plateau/53394650/building/flat.731cb19fb64e.topo.json.br",
+      "count": 3344,
+      "height_max": 105.9
+    },
+    {
+      "mesh": "53394651",
+      "bbox": [
+        139.7621587,
+        35.7081564,
+        139.7751521,
+        35.7167347
+      ],
+      "pack": "plateau/53394651/building/flat.f52fc131b8cd.topo.json.br",
+      "count": 1379,
+      "height_max": 136
+    },
+    {
+      "mesh": "53394652",
+      "bbox": [
+        139.7745558,
+        35.7078853,
+        139.7876379,
+        35.7167741
+      ],
+      "pack": "plateau/53394652/building/flat.3b238080814b.topo.json.br",
+      "count": 3602,
+      "height_max": 114.1
+    },
+    {
+      "mesh": "53394653",
+      "bbox": [
+        139.7872572,
+        35.7081009,
+        139.8000457,
+        35.7166799
+      ],
+      "pack": "plateau/53394653/building/flat.0534439c2104.topo.json.br",
+      "count": 4063,
+      "height_max": 136.9
+    },
+    {
+      "mesh": "53394654",
+      "bbox": [
+        139.7997983,
+        35.7081942,
+        139.8126484,
+        35.7168256
+      ],
+      "pack": "plateau/53394654/building/flat.3eb0370cbdd0.topo.json.br",
+      "count": 2850,
+      "height_max": 98.5
+    },
+    {
+      "mesh": "53394655",
+      "bbox": [
+        139.8087146,
+        35.7074268,
+        139.8251611,
+        35.7167683
+      ],
+      "pack": "plateau/53394655/building/flat.f6f685b97930.topo.json.br",
+      "count": 5483,
+      "height_max": 186.9
+    },
+    {
+      "mesh": "53394656",
+      "bbox": [
+        139.824757,
+        35.7078902,
+        139.8376418,
+        35.7168549
+      ],
+      "pack": "plateau/53394656/building/flat.b5b0ecda7afe.topo.json.br",
+      "count": 3306,
+      "height_max": 47.9
+    },
+    {
+      "mesh": "53394657",
+      "bbox": [
+        139.8371133,
+        35.7080955,
+        139.8497386,
+        35.7167094
+      ],
+      "pack": "plateau/53394657/building/flat.4339a83d0feb.topo.json.br",
+      "count": 3009,
+      "height_max": 42
+    },
+    {
+      "mesh": "53394658",
+      "bbox": [
+        139.8504047,
+        35.7080983,
+        139.8629801,
+        35.7175408
+      ],
+      "pack": "plateau/53394658/building/flat.ff6609ff4e81.topo.json.br",
+      "count": 3318,
+      "height_max": 45.2
+    },
+    {
+      "mesh": "53394659",
+      "bbox": [
+        139.8621199,
+        35.7079557,
+        139.8750025,
+        35.7167833
+      ],
+      "pack": "plateau/53394659/building/flat.3fdcca9b251f.topo.json.br",
+      "count": 3996,
+      "height_max": 45.5
+    },
+    {
+      "mesh": "53394660",
+      "bbox": [
+        139.7494913,
+        35.7160425,
+        139.7627709,
+        35.7251067
+      ],
+      "pack": "plateau/53394660/building/flat.8f937d09376c.topo.json.br",
+      "count": 3959,
+      "height_max": 50
+    },
+    {
+      "mesh": "53394661",
+      "bbox": [
+        139.7622508,
+        35.7165512,
+        139.7750889,
+        35.7250891
+      ],
+      "pack": "plateau/53394661/building/flat.b9e9b0d33803.topo.json.br",
+      "count": 3624,
+      "height_max": 45.5
+    },
+    {
+      "mesh": "53394662",
+      "bbox": [
+        139.7744635,
+        35.7160179,
+        139.7875467,
+        35.7250884
+      ],
+      "pack": "plateau/53394662/building/flat.d0d9cb7b6de5.topo.json.br",
+      "count": 3308,
+      "height_max": 56.4
+    },
+    {
+      "mesh": "53394663",
+      "bbox": [
+        139.7872919,
+        35.7164282,
+        139.7999978,
+        35.7251365
+      ],
+      "pack": "plateau/53394663/building/flat.aeed08309e84.topo.json.br",
+      "count": 5633,
+      "height_max": 50.4
+    },
+    {
+      "mesh": "53394664",
+      "bbox": [
+        139.7998309,
+        35.7165375,
+        139.8125678,
+        35.7250638
+      ],
+      "pack": "plateau/53394664/building/flat.ee0353113199.topo.json.br",
+      "count": 3565,
+      "height_max": 46.5
+    },
+    {
+      "mesh": "53394665",
+      "bbox": [
+        139.812288,
+        35.7161266,
+        139.825027,
+        35.7252227
+      ],
+      "pack": "plateau/53394665/building/flat.45fee31ef403.topo.json.br",
+      "count": 5161,
+      "height_max": 99.2
+    },
+    {
+      "mesh": "53394666",
+      "bbox": [
+        139.8248125,
+        35.7161434,
+        139.8374946,
+        35.7250475
+      ],
+      "pack": "plateau/53394666/building/flat.628eec3d79e7.topo.json.br",
+      "count": 3722,
+      "height_max": 148.8
+    },
+    {
+      "mesh": "53394667",
+      "bbox": [
+        139.8372651,
+        35.7165867,
+        139.850186,
+        35.725128
+      ],
+      "pack": "plateau/53394667/building/flat.e623aeef8b88.topo.json.br",
+      "count": 1542,
+      "height_max": 35.4
+    },
+    {
+      "mesh": "53394668",
+      "bbox": [
+        139.8496593,
+        35.7158985,
+        139.8625771,
+        35.7251004
+      ],
+      "pack": "plateau/53394668/building/flat.e4c85af8f35d.topo.json.br",
+      "count": 3622,
+      "height_max": 78.5
+    },
+    {
+      "mesh": "53394669",
+      "bbox": [
+        139.8621288,
+        35.7162754,
+        139.8750218,
+        35.7251894
+      ],
+      "pack": "plateau/53394669/building/flat.c39b87fdfcdb.topo.json.br",
+      "count": 4179,
+      "height_max": 45.2
+    },
+    {
+      "mesh": "53394670",
+      "bbox": [
+        139.7498005,
+        35.7246249,
+        139.7626039,
+        35.7334372
+      ],
+      "pack": "plateau/53394670/building/flat.7d3a78534470.topo.json.br",
+      "count": 5230,
+      "height_max": 57.8
+    },
+    {
+      "mesh": "53394671",
+      "bbox": [
+        139.7622109,
+        35.7247843,
+        139.7752372,
+        35.7336269
+      ],
+      "pack": "plateau/53394671/building/flat.a7b7596fb6b4.topo.json.br",
+      "count": 3794,
+      "height_max": 151.8
+    },
+    {
+      "mesh": "53394672",
+      "bbox": [
+        139.7746737,
+        35.7247851,
+        139.7881595,
+        35.7333561
+      ],
+      "pack": "plateau/53394672/building/flat.65c4fdec94ef.topo.json.br",
+      "count": 5533,
+      "height_max": 119.4
+    },
+    {
+      "mesh": "53394673",
+      "bbox": [
+        139.7872805,
+        35.7248656,
+        139.8000175,
+        35.7334251
+      ],
+      "pack": "plateau/53394673/building/flat.c67710c6fc21.topo.json.br",
+      "count": 5304,
+      "height_max": 93.9
+    },
+    {
+      "mesh": "53394674",
+      "bbox": [
+        139.7996937,
+        35.7247448,
+        139.8126907,
+        35.7334688
+      ],
+      "pack": "plateau/53394674/building/flat.7cc6f78bb878.topo.json.br",
+      "count": 2467,
+      "height_max": 129.4
+    },
+    {
+      "mesh": "53394675",
+      "bbox": [
+        139.812119,
+        35.7248572,
+        139.8250977,
+        35.7335484
+      ],
+      "pack": "plateau/53394675/building/flat.ac371a735ea8.topo.json.br",
+      "count": 5356,
+      "height_max": 52.9
+    },
+    {
+      "mesh": "53394676",
+      "bbox": [
+        139.8247253,
+        35.7242454,
+        139.8375213,
+        35.7333702
+      ],
+      "pack": "plateau/53394676/building/flat.1ab3e5ee2afb.topo.json.br",
+      "count": 2048,
+      "height_max": 47.3
+    },
+    {
+      "mesh": "53394677",
+      "bbox": [
+        139.8373639,
+        35.7248562,
+        139.8500924,
+        35.7335383
+      ],
+      "pack": "plateau/53394677/building/flat.73cdfabcb20f.topo.json.br",
+      "count": 3657,
+      "height_max": 45.3
+    },
+    {
+      "mesh": "53394678",
+      "bbox": [
+        139.849866,
+        35.724656,
+        139.862546,
+        35.7335461
+      ],
+      "pack": "plateau/53394678/building/flat.006e31968111.topo.json.br",
+      "count": 4151,
+      "height_max": 31
+    },
+    {
+      "mesh": "53394679",
+      "bbox": [
+        139.8620482,
+        35.7248435,
+        139.8750302,
+        35.7334385
+      ],
+      "pack": "plateau/53394679/building/flat.c6b9a488539f.topo.json.br",
+      "count": 3180,
+      "height_max": 40.3
+    },
+    {
+      "mesh": "53394680",
+      "bbox": [
+        139.7496816,
+        35.7331255,
+        139.7626935,
+        35.7418312
+      ],
+      "pack": "plateau/53394680/building/flat.772e1ad354ac.topo.json.br",
+      "count": 4305,
+      "height_max": 83.7
+    },
+    {
+      "mesh": "53394681",
+      "bbox": [
+        139.7621777,
+        35.7331045,
+        139.7750503,
+        35.7417649
+      ],
+      "pack": "plateau/53394681/building/flat.87de970f1d3e.topo.json.br",
+      "count": 4251,
+      "height_max": 47.6
+    },
+    {
+      "mesh": "53394682",
+      "bbox": [
+        139.7746729,
+        35.7331791,
+        139.7874969,
+        35.741757
+      ],
+      "pack": "plateau/53394682/building/flat.caee2e98d021.topo.json.br",
+      "count": 5175,
+      "height_max": 61.8
+    },
+    {
+      "mesh": "53394683",
+      "bbox": [
+        139.7870618,
+        35.7326212,
+        139.800345,
+        35.7418314
+      ],
+      "pack": "plateau/53394683/building/flat.2f7dbb02fbd0.topo.json.br",
+      "count": 4044,
+      "height_max": 106.9
+    },
+    {
+      "mesh": "53394684",
+      "bbox": [
+        139.7986285,
+        35.7327641,
+        139.812262,
+        35.7417804
+      ],
+      "pack": "plateau/53394684/building/flat.39fa5f1c4c45.topo.json.br",
+      "count": 679,
+      "height_max": 137
+    },
+    {
+      "mesh": "53394685",
+      "bbox": [
+        139.8126774,
+        35.7324625,
+        139.823908,
+        35.7417122
+      ],
+      "pack": "plateau/53394685/building/flat.fcf9f33a75db.topo.json.br",
+      "count": 1576,
+      "height_max": 77.3
+    },
+    {
+      "mesh": "53394686",
+      "bbox": [
+        139.8255298,
+        35.7332047,
+        139.8377025,
+        35.7417604
+      ],
+      "pack": "plateau/53394686/building/flat.5a8b1471ab78.topo.json.br",
+      "count": 3738,
+      "height_max": 43.4
+    },
+    {
+      "mesh": "53394687",
+      "bbox": [
+        139.8373066,
+        35.7331273,
+        139.8501283,
+        35.7417642
+      ],
+      "pack": "plateau/53394687/building/flat.06ec51fe11d4.topo.json.br",
+      "count": 4757,
+      "height_max": 75.2
+    },
+    {
+      "mesh": "53394688",
+      "bbox": [
+        139.849746,
+        35.7331498,
+        139.8624793,
+        35.741813
+      ],
+      "pack": "plateau/53394688/building/flat.ed7f5f508335.topo.json.br",
+      "count": 3352,
+      "height_max": 44.2
+    },
+    {
+      "mesh": "53394689",
+      "bbox": [
+        139.8620041,
+        35.733199,
+        139.8750833,
+        35.7418026
+      ],
+      "pack": "plateau/53394689/building/flat.952c9734f013.topo.json.br",
+      "count": 2984,
+      "height_max": 46.4
+    },
+    {
+      "mesh": "53394690",
+      "bbox": [
+        139.7497972,
+        35.7414345,
+        139.7625815,
+        35.7500724
+      ],
+      "pack": "plateau/53394690/building/flat.2f9477929ff9.topo.json.br",
+      "count": 3748,
+      "height_max": 49.4
+    },
+    {
+      "mesh": "53394691",
+      "bbox": [
+        139.7623816,
+        35.7414979,
+        139.7750803,
+        35.7500823
+      ],
+      "pack": "plateau/53394691/building/flat.db30da11accb.topo.json.br",
+      "count": 6108,
+      "height_max": 46.4
+    },
+    {
+      "mesh": "53394692",
+      "bbox": [
+        139.7747349,
+        35.7415922,
+        139.787892,
+        35.7500581
+      ],
+      "pack": "plateau/53394692/building/flat.c2d3afa085b3.topo.json.br",
+      "count": 5870,
+      "height_max": 93.1
+    },
+    {
+      "mesh": "53394693",
+      "bbox": [
+        139.7864532,
+        35.7409399,
+        139.8000468,
+        35.7500817
+      ],
+      "pack": "plateau/53394693/building/flat.d200c1290206.topo.json.br",
+      "count": 3472,
+      "height_max": 46.6
+    },
+    {
+      "mesh": "53394694",
+      "bbox": [
+        139.7998034,
+        35.7410949,
+        139.812599,
+        35.7500728
+      ],
+      "pack": "plateau/53394694/building/flat.62a467ad5aaf.topo.json.br",
+      "count": 4623,
+      "height_max": 93.8
+    },
+    {
+      "mesh": "53394695",
+      "bbox": [
+        139.8123948,
+        35.7414357,
+        139.8251254,
+        35.7500259
+      ],
+      "pack": "plateau/53394695/building/flat.429d2deeb4cf.topo.json.br",
+      "count": 2393,
+      "height_max": 72
+    },
+    {
+      "mesh": "53394696",
+      "bbox": [
+        139.8248578,
+        35.7407709,
+        139.8375963,
+        35.75006
+      ],
+      "pack": "plateau/53394696/building/flat.a542dfb3ad3c.topo.json.br",
+      "count": 5581,
+      "height_max": 42.2
+    },
+    {
+      "mesh": "53394697",
+      "bbox": [
+        139.8373415,
+        35.7412688,
+        139.8500617,
+        35.7500325
+      ],
+      "pack": "plateau/53394697/building/flat.b67e85a3d027.topo.json.br",
+      "count": 3291,
+      "height_max": 44.3
+    },
+    {
+      "mesh": "53394698",
+      "bbox": [
+        139.849702,
+        35.7415461,
+        139.8625183,
+        35.7501547
+      ],
+      "pack": "plateau/53394698/building/flat.c4223d0d3c5e.topo.json.br",
+      "count": 3411,
+      "height_max": 54.2
+    },
+    {
+      "mesh": "53394699",
+      "bbox": [
+        139.8623609,
+        35.7413748,
+        139.8754272,
+        35.7501572
+      ],
+      "pack": "plateau/53394699/building/flat.b5eda097ae41.topo.json.br",
+      "count": 3033,
+      "height_max": 36
+    },
+    {
+      "mesh": "53394700",
+      "bbox": [
+        139.8747358,
+        35.6665026,
+        139.886364,
+        35.6750131
+      ],
+      "pack": "plateau/53394700/building/flat.af9069465610.topo.json.br",
+      "count": 3219,
+      "height_max": 43.3
+    },
+    {
+      "mesh": "53394710",
+      "bbox": [
+        139.8746927,
+        35.6746509,
+        139.8875741,
+        35.6836423
+      ],
+      "pack": "plateau/53394710/building/flat.d4cb1b5cb05c.topo.json.br",
+      "count": 3123,
+      "height_max": 45.4
+    },
+    {
+      "mesh": "53394711",
+      "bbox": [
+        139.8873027,
+        35.6811578,
+        139.893039,
+        35.6833867
+      ],
+      "pack": "plateau/53394711/building/flat.097f6e443bbe.topo.json.br",
+      "count": 347,
+      "height_max": 31.7
+    },
+    {
+      "mesh": "53394720",
+      "bbox": [
+        139.8748177,
+        35.6831367,
+        139.8881644,
+        35.6917218
+      ],
+      "pack": "plateau/53394720/building/flat.9652635bdbe6.topo.json.br",
+      "count": 3124,
+      "height_max": 52
+    },
+    {
+      "mesh": "53394721",
+      "bbox": [
+        139.8872506,
+        35.6832049,
+        139.9000053,
+        35.6917537
+      ],
+      "pack": "plateau/53394721/building/flat.1c8ffe03e040.topo.json.br",
+      "count": 5026,
+      "height_max": 26.2
+    },
+    {
+      "mesh": "53394722",
+      "bbox": [
+        139.8998231,
+        35.6834974,
+        139.9117151,
+        35.6917315
+      ],
+      "pack": "plateau/53394722/building/flat.593a798678e5.topo.json.br",
+      "count": 3018,
+      "height_max": 42.1
+    },
+    {
+      "mesh": "53394730",
+      "bbox": [
+        139.8746207,
+        35.6913142,
+        139.887594,
+        35.7000445
+      ],
+      "pack": "plateau/53394730/building/flat.8fd44f8e735a.topo.json.br",
+      "count": 3577,
+      "height_max": 45.3
+    },
+    {
+      "mesh": "53394731",
+      "bbox": [
+        139.8873254,
+        35.691117,
+        139.9004432,
+        35.7001079
+      ],
+      "pack": "plateau/53394731/building/flat.1ec0bf3e3996.topo.json.br",
+      "count": 3873,
+      "height_max": 39.4
+    },
+    {
+      "mesh": "53394732",
+      "bbox": [
+        139.8997926,
+        35.6909841,
+        139.9130617,
+        35.7001739
+      ],
+      "pack": "plateau/53394732/building/flat.1c4985a5666d.topo.json.br",
+      "count": 3743,
+      "height_max": 44
+    },
+    {
+      "mesh": "53394733",
+      "bbox": [
+        139.9108822,
+        35.6921413,
+        139.9175431,
+        35.7000308
+      ],
+      "pack": "plateau/53394733/building/flat.e9e04c7b2fec.topo.json.br",
+      "count": 551,
+      "height_max": 41.9
+    },
+    {
+      "mesh": "53394740",
+      "bbox": [
+        139.8747317,
+        35.6997675,
+        139.887588,
+        35.7086969
+      ],
+      "pack": "plateau/53394740/building/flat.b3e94f99f4a9.topo.json.br",
+      "count": 3564,
+      "height_max": 45.9
+    },
+    {
+      "mesh": "53394741",
+      "bbox": [
+        139.8872414,
+        35.6998127,
+        139.9001458,
+        35.7085543
+      ],
+      "pack": "plateau/53394741/building/flat.4a3de5a425ca.topo.json.br",
+      "count": 3054,
+      "height_max": 45.8
+    },
+    {
+      "mesh": "53394742",
+      "bbox": [
+        139.8996688,
+        35.6997832,
+        139.9125712,
+        35.7085652
+      ],
+      "pack": "plateau/53394742/building/flat.100af45f90ee.topo.json.br",
+      "count": 3444,
+      "height_max": 70.5
+    },
+    {
+      "mesh": "53394743",
+      "bbox": [
+        139.912046,
+        35.6999577,
+        139.9174068,
+        35.7068342
+      ],
+      "pack": "plateau/53394743/building/flat.afebe5349f3c.topo.json.br",
+      "count": 646,
+      "height_max": 27.1
+    },
+    {
+      "mesh": "53394750",
+      "bbox": [
+        139.8746632,
+        35.708249,
+        139.8875322,
+        35.7167806
+      ],
+      "pack": "plateau/53394750/building/flat.3f9488b90329.topo.json.br",
+      "count": 4010,
+      "height_max": 37.3
+    },
+    {
+      "mesh": "53394751",
+      "bbox": [
+        139.8872206,
+        35.7082374,
+        139.9001209,
+        35.7168156
+      ],
+      "pack": "plateau/53394751/building/flat.97d77617f78b.topo.json.br",
+      "count": 3889,
+      "height_max": 21.1
+    },
+    {
+      "mesh": "53394752",
+      "bbox": [
+        139.8998703,
+        35.708137,
+        139.910813,
+        35.7164839
+      ],
+      "pack": "plateau/53394752/building/flat.28d67249a71f.topo.json.br",
+      "count": 2118,
+      "height_max": 30.5
+    },
+    {
+      "mesh": "53394760",
+      "bbox": [
+        139.8748033,
+        35.7166098,
+        139.8876011,
+        35.7251235
+      ],
+      "pack": "plateau/53394760/building/flat.836a3bb01877.topo.json.br",
+      "count": 4408,
+      "height_max": 33.5
+    },
+    {
+      "mesh": "53394761",
+      "bbox": [
+        139.8873462,
+        35.7162521,
+        139.899859,
+        35.7250666
+      ],
+      "pack": "plateau/53394761/building/flat.4b71cd6dd6a4.topo.json.br",
+      "count": 4180,
+      "height_max": 24
+    },
+    {
+      "mesh": "53394762",
+      "bbox": [
+        139.8999734,
+        35.7172119,
+        139.9000358,
+        35.7172487
+      ],
+      "pack": "plateau/53394762/building/flat.d93ded245377.topo.json.br",
+      "count": 1,
+      "height_max": 2.6
+    },
+    {
+      "mesh": "53394770",
+      "bbox": [
+        139.8748534,
+        35.7248884,
+        139.8876331,
+        35.733644
+      ],
+      "pack": "plateau/53394770/building/flat.a5dd420631de.topo.json.br",
+      "count": 5200,
+      "height_max": 105.1
+    },
+    {
+      "mesh": "53394771",
+      "bbox": [
+        139.8873602,
+        35.7249127,
+        139.8950299,
+        35.7334494
+      ],
+      "pack": "plateau/53394771/building/flat.f72723493864.topo.json.br",
+      "count": 2593,
+      "height_max": 43.7
+    },
+    {
+      "mesh": "53394780",
+      "bbox": [
+        139.8747477,
+        35.7326754,
+        139.8875174,
+        35.7417812
+      ],
+      "pack": "plateau/53394780/building/flat.b5cd1f8935de.topo.json.br",
+      "count": 4487,
+      "height_max": 83.2
+    },
+    {
+      "mesh": "53394781",
+      "bbox": [
+        139.8873151,
+        35.7330262,
+        139.8967939,
+        35.7417497
+      ],
+      "pack": "plateau/53394781/building/flat.12d4e8d98ce4.topo.json.br",
+      "count": 3491,
+      "height_max": 39.1
+    },
+    {
+      "mesh": "53394790",
+      "bbox": [
+        139.8748899,
+        35.7414983,
+        139.8875776,
+        35.7500728
+      ],
+      "pack": "plateau/53394790/building/flat.4acc7624c743.topo.json.br",
+      "count": 4916,
+      "height_max": 48.4
+    },
+    {
+      "mesh": "53394791",
+      "bbox": [
+        139.8868233,
+        35.741592,
+        139.8968017,
+        35.7484315
+      ],
+      "pack": "plateau/53394791/building/flat.0dc3d24dd456.topo.json.br",
+      "count": 1811,
+      "height_max": 18.4
+    },
+    {
+      "mesh": "53395405",
+      "bbox": [
+        139.565547,
+        35.7498743,
+        139.5751792,
+        35.7584109
+      ],
+      "pack": "plateau/53395405/building/flat.0f56a1b30ca5.topo.json.br",
+      "count": 2096,
+      "height_max": 30.8
+    },
+    {
+      "mesh": "53395406",
+      "bbox": [
+        139.574605,
+        35.749751,
+        139.5875847,
+        35.7584193
+      ],
+      "pack": "plateau/53395406/building/flat.872d7228a8f5.topo.json.br",
+      "count": 3598,
+      "height_max": 89.9
+    },
+    {
+      "mesh": "53395407",
+      "bbox": [
+        139.5871716,
+        35.7496633,
+        139.6002838,
+        35.7584339
+      ],
+      "pack": "plateau/53395407/building/flat.36c41b96e7aa.topo.json.br",
+      "count": 3074,
+      "height_max": 40.1
+    },
+    {
+      "mesh": "53395408",
+      "bbox": [
+        139.5998506,
+        35.7498431,
+        139.6126348,
+        35.7584446
+      ],
+      "pack": "plateau/53395408/building/flat.3e5d33a5bb60.topo.json.br",
+      "count": 4091,
+      "height_max": 33.7
+    },
+    {
+      "mesh": "53395409",
+      "bbox": [
+        139.6123392,
+        35.749537,
+        139.6251637,
+        35.7583616
+      ],
+      "pack": "plateau/53395409/building/flat.ee1c5d23fbd9.topo.json.br",
+      "count": 2759,
+      "height_max": 100.7
+    },
+    {
+      "mesh": "53395415",
+      "bbox": [
+        139.5630337,
+        35.758088,
+        139.5753317,
+        35.7660201
+      ],
+      "pack": "plateau/53395415/building/flat.168a3e00cc3e.topo.json.br",
+      "count": 2515,
+      "height_max": 54.8
+    },
+    {
+      "mesh": "53395416",
+      "bbox": [
+        139.5747283,
+        35.7580878,
+        139.5876238,
+        35.7667907
+      ],
+      "pack": "plateau/53395416/building/flat.d13dd58393bf.topo.json.br",
+      "count": 3447,
+      "height_max": 20
+    },
+    {
+      "mesh": "53395417",
+      "bbox": [
+        139.587279,
+        35.7581139,
+        139.6000951,
+        35.7667455
+      ],
+      "pack": "plateau/53395417/building/flat.117e7c279ff9.topo.json.br",
+      "count": 3373,
+      "height_max": 38.2
+    },
+    {
+      "mesh": "53395418",
+      "bbox": [
+        139.5998592,
+        35.7582222,
+        139.6125928,
+        35.766748
+      ],
+      "pack": "plateau/53395418/building/flat.d32360f96f7c.topo.json.br",
+      "count": 4154,
+      "height_max": 20.5
+    },
+    {
+      "mesh": "53395419",
+      "bbox": [
+        139.6123698,
+        35.7579853,
+        139.6251946,
+        35.7667654
+      ],
+      "pack": "plateau/53395419/building/flat.96acb0ab8674.topo.json.br",
+      "count": 2990,
+      "height_max": 47.6
+    },
+    {
+      "mesh": "53395425",
+      "bbox": [
+        139.5741069,
+        35.7671962,
+        139.5749945,
+        35.7682013
+      ],
+      "pack": "plateau/53395425/building/flat.8ceb1a99c3ac.topo.json.br",
+      "count": 57,
+      "height_max": 9.7
+    },
+    {
+      "mesh": "53395426",
+      "bbox": [
+        139.5749266,
+        35.7665647,
+        139.5875851,
+        35.7751101
+      ],
+      "pack": "plateau/53395426/building/flat.c89145cdd99b.topo.json.br",
+      "count": 2629,
+      "height_max": 18.8
+    },
+    {
+      "mesh": "53395427",
+      "bbox": [
+        139.5871952,
+        35.7665003,
+        139.5999649,
+        35.7750439
+      ],
+      "pack": "plateau/53395427/building/flat.7362d8b7a4b0.topo.json.br",
+      "count": 3588,
+      "height_max": 19.9
+    },
+    {
+      "mesh": "53395428",
+      "bbox": [
+        139.5999138,
+        35.7665604,
+        139.6125258,
+        35.7746373
+      ],
+      "pack": "plateau/53395428/building/flat.86d9f8f515ab.topo.json.br",
+      "count": 1248,
+      "height_max": 28.1
+    },
+    {
+      "mesh": "53395429",
+      "bbox": [
+        139.6117651,
+        35.7666048,
+        139.625082,
+        35.7750047
+      ],
+      "pack": "plateau/53395429/building/flat.bdfa262426d0.topo.json.br",
+      "count": 1002,
+      "height_max": 21.1
+    },
+    {
+      "mesh": "53395436",
+      "bbox": [
+        139.5847706,
+        35.7749178,
+        139.58756,
+        35.7762346
+      ],
+      "pack": "plateau/53395436/building/flat.86d25289664b.topo.json.br",
+      "count": 39,
+      "height_max": 11.5
+    },
+    {
+      "mesh": "53395437",
+      "bbox": [
+        139.5874296,
+        35.7748357,
+        139.5973955,
+        35.7792295
+      ],
+      "pack": "plateau/53395437/building/flat.dd141c9d1467.topo.json.br",
+      "count": 428,
+      "height_max": 22
+    },
+    {
+      "mesh": "53395438",
+      "bbox": [
+        139.6006757,
+        35.7741764,
+        139.604224,
+        35.7754812
+      ],
+      "pack": "plateau/53395438/building/flat.0439554e0213.topo.json.br",
+      "count": 3,
+      "height_max": 23.3
+    },
+    {
+      "mesh": "53395439",
+      "bbox": [
+        139.6242773,
+        35.7749787,
+        139.6256934,
+        35.7804596
+      ],
+      "pack": "plateau/53395439/building/flat.2eea0038de06.topo.json.br",
+      "count": 58,
+      "height_max": 21.5
+    },
+    {
+      "mesh": "53395500",
+      "bbox": [
+        139.6248114,
+        35.7496768,
+        139.6375635,
+        35.7583808
+      ],
+      "pack": "plateau/53395500/building/flat.a17351679de9.topo.json.br",
+      "count": 2464,
+      "height_max": 97.1
+    },
+    {
+      "mesh": "53395501",
+      "bbox": [
+        139.6372988,
+        35.749866,
+        139.6505919,
+        35.7585491
+      ],
+      "pack": "plateau/53395501/building/flat.e18f7bc1f8eb.topo.json.br",
+      "count": 3758,
+      "height_max": 69.2
+    },
+    {
+      "mesh": "53395502",
+      "bbox": [
+        139.6497733,
+        35.7498527,
+        139.6627493,
+        35.758534
+      ],
+      "pack": "plateau/53395502/building/flat.1dd8bc6336e7.topo.json.br",
+      "count": 3060,
+      "height_max": 33.9
+    },
+    {
+      "mesh": "53395503",
+      "bbox": [
+        139.662007,
+        35.7496323,
+        139.6752241,
+        35.7584747
+      ],
+      "pack": "plateau/53395503/building/flat.93fe52eb718a.topo.json.br",
+      "count": 2599,
+      "height_max": 29.2
+    },
+    {
+      "mesh": "53395504",
+      "bbox": [
+        139.6735773,
+        35.749865,
+        139.6877953,
+        35.7584369
+      ],
+      "pack": "plateau/53395504/building/flat.67ec0bd2db62.topo.json.br",
+      "count": 3751,
+      "height_max": 38
+    },
+    {
+      "mesh": "53395505",
+      "bbox": [
+        139.6872861,
+        35.7492468,
+        139.7001897,
+        35.7584457
+      ],
+      "pack": "plateau/53395505/building/flat.37e715a38d51.topo.json.br",
+      "count": 5135,
+      "height_max": 47.1
+    },
+    {
+      "mesh": "53395506",
+      "bbox": [
+        139.6993408,
+        35.7497632,
+        139.7126405,
+        35.7584627
+      ],
+      "pack": "plateau/53395506/building/flat.f5079c14db95.topo.json.br",
+      "count": 4403,
+      "height_max": 85.1
+    },
+    {
+      "mesh": "53395507",
+      "bbox": [
+        139.7123498,
+        35.7495585,
+        139.7252864,
+        35.7584846
+      ],
+      "pack": "plateau/53395507/building/flat.efa03f9378eb.topo.json.br",
+      "count": 2408,
+      "height_max": 55.9
+    },
+    {
+      "mesh": "53395508",
+      "bbox": [
+        139.7246433,
+        35.7496126,
+        139.7375302,
+        35.7584017
+      ],
+      "pack": "plateau/53395508/building/flat.bec7493562b9.topo.json.br",
+      "count": 2867,
+      "height_max": 88.6
+    },
+    {
+      "mesh": "53395509",
+      "bbox": [
+        139.7372979,
+        35.7497316,
+        139.7502254,
+        35.758443
+      ],
+      "pack": "plateau/53395509/building/flat.8ccf399f7bf4.topo.json.br",
+      "count": 3314,
+      "height_max": 101
+    },
+    {
+      "mesh": "53395510",
+      "bbox": [
+        139.6248276,
+        35.7580348,
+        139.637812,
+        35.7667093
+      ],
+      "pack": "plateau/53395510/building/flat.56bbc7dfc04f.topo.json.br",
+      "count": 1170,
+      "height_max": 116.1
+    },
+    {
+      "mesh": "53395511",
+      "bbox": [
+        139.6370689,
+        35.7582252,
+        139.6501348,
+        35.7667413
+      ],
+      "pack": "plateau/53395511/building/flat.5124d75a2dbf.topo.json.br",
+      "count": 5001,
+      "height_max": 21.4
+    },
+    {
+      "mesh": "53395512",
+      "bbox": [
+        139.6497799,
+        35.7580277,
+        139.6625498,
+        35.7667991
+      ],
+      "pack": "plateau/53395512/building/flat.54ae5d482f4d.topo.json.br",
+      "count": 2376,
+      "height_max": 45.2
+    },
+    {
+      "mesh": "53395513",
+      "bbox": [
+        139.6619187,
+        35.7572907,
+        139.6751641,
+        35.7667939
+      ],
+      "pack": "plateau/53395513/building/flat.42fd74cde0de.topo.json.br",
+      "count": 3709,
+      "height_max": 47.9
+    },
+    {
+      "mesh": "53395514",
+      "bbox": [
+        139.6746259,
+        35.7581979,
+        139.6875885,
+        35.7669579
+      ],
+      "pack": "plateau/53395514/building/flat.0c646a3f90d1.topo.json.br",
+      "count": 4423,
+      "height_max": 35.9
+    },
+    {
+      "mesh": "53395515",
+      "bbox": [
+        139.6868435,
+        35.7582289,
+        139.7001839,
+        35.7668058
+      ],
+      "pack": "plateau/53395515/building/flat.94807c615c48.topo.json.br",
+      "count": 4233,
+      "height_max": 54.9
+    },
+    {
+      "mesh": "53395516",
+      "bbox": [
+        139.6996742,
+        35.7582017,
+        139.7126963,
+        35.7667631
+      ],
+      "pack": "plateau/53395516/building/flat.c17fa3987933.topo.json.br",
+      "count": 4561,
+      "height_max": 99.4
+    },
+    {
+      "mesh": "53395517",
+      "bbox": [
+        139.7115468,
+        35.7579294,
+        139.7251365,
+        35.76677
+      ],
+      "pack": "plateau/53395517/building/flat.845255cca751.topo.json.br",
+      "count": 5937,
+      "height_max": 85.6
+    },
+    {
+      "mesh": "53395518",
+      "bbox": [
+        139.7248534,
+        35.7580431,
+        139.7377129,
+        35.7669469
+      ],
+      "pack": "plateau/53395518/building/flat.c84f087ca8a9.topo.json.br",
+      "count": 4289,
+      "height_max": 54.6
+    },
+    {
+      "mesh": "53395519",
+      "bbox": [
+        139.7372641,
+        35.7581217,
+        139.7506903,
+        35.7667698
+      ],
+      "pack": "plateau/53395519/building/flat.b60f634a5cfd.topo.json.br",
+      "count": 4262,
+      "height_max": 61.5
+    },
+    {
+      "mesh": "53395520",
+      "bbox": [
+        139.6248145,
+        35.7663012,
+        139.6380332,
+        35.775047
+      ],
+      "pack": "plateau/53395520/building/flat.c2534abef00e.topo.json.br",
+      "count": 2313,
+      "height_max": 44.1
+    },
+    {
+      "mesh": "53395521",
+      "bbox": [
+        139.6371833,
+        35.7664931,
+        139.6501405,
+        35.7751731
+      ],
+      "pack": "plateau/53395521/building/flat.f23b11f47ad7.topo.json.br",
+      "count": 4021,
+      "height_max": 44
+    },
+    {
+      "mesh": "53395522",
+      "bbox": [
+        139.6498197,
+        35.766248,
+        139.6635703,
+        35.7750803
+      ],
+      "pack": "plateau/53395522/building/flat.c6856b65ef00.topo.json.br",
+      "count": 3666,
+      "height_max": 43.6
+    },
+    {
+      "mesh": "53395523",
+      "bbox": [
+        139.6616861,
+        35.766465,
+        139.6750719,
+        35.7752856
+      ],
+      "pack": "plateau/53395523/building/flat.45a95be761ac.topo.json.br",
+      "count": 4399,
+      "height_max": 46.1
+    },
+    {
+      "mesh": "53395524",
+      "bbox": [
+        139.6746609,
+        35.7662421,
+        139.6874928,
+        35.7750519
+      ],
+      "pack": "plateau/53395524/building/flat.d49f335168ce.topo.json.br",
+      "count": 3734,
+      "height_max": 78.4
+    },
+    {
+      "mesh": "53395525",
+      "bbox": [
+        139.6871291,
+        35.7662079,
+        139.7000951,
+        35.7752808
+      ],
+      "pack": "plateau/53395525/building/flat.b48476d5ed95.topo.json.br",
+      "count": 3504,
+      "height_max": 47
+    },
+    {
+      "mesh": "53395526",
+      "bbox": [
+        139.6993685,
+        35.7660805,
+        139.7126336,
+        35.7752741
+      ],
+      "pack": "plateau/53395526/building/flat.ecbf58b288df.topo.json.br",
+      "count": 3249,
+      "height_max": 57.3
+    },
+    {
+      "mesh": "53395527",
+      "bbox": [
+        139.7122741,
+        35.7665608,
+        139.7251432,
+        35.775124
+      ],
+      "pack": "plateau/53395527/building/flat.0d45df93427b.topo.json.br",
+      "count": 5025,
+      "height_max": 45.2
+    },
+    {
+      "mesh": "53395528",
+      "bbox": [
+        139.7244264,
+        35.7660582,
+        139.7375644,
+        35.7751392
+      ],
+      "pack": "plateau/53395528/building/flat.3d38b636cd0f.topo.json.br",
+      "count": 3889,
+      "height_max": 51.8
+    },
+    {
+      "mesh": "53395529",
+      "bbox": [
+        139.7371103,
+        35.7664532,
+        139.7500012,
+        35.7753117
+      ],
+      "pack": "plateau/53395529/building/flat.df3f953780d7.topo.json.br",
+      "count": 2104,
+      "height_max": 64.3
+    },
+    {
+      "mesh": "53395530",
+      "bbox": [
+        139.6244895,
+        35.7747247,
+        139.6376189,
+        35.783447
+      ],
+      "pack": "plateau/53395530/building/flat.525128c11512.topo.json.br",
+      "count": 2958,
+      "height_max": 58.3
+    },
+    {
+      "mesh": "53395531",
+      "bbox": [
+        139.6372541,
+        35.7747439,
+        139.6500791,
+        35.7834195
+      ],
+      "pack": "plateau/53395531/building/flat.97a8d8e99204.topo.json.br",
+      "count": 4145,
+      "height_max": 25.4
+    },
+    {
+      "mesh": "53395532",
+      "bbox": [
+        139.6498428,
+        35.7746871,
+        139.6625109,
+        35.7833413
+      ],
+      "pack": "plateau/53395532/building/flat.4f4d2362865e.topo.json.br",
+      "count": 3366,
+      "height_max": 38.2
+    },
+    {
+      "mesh": "53395533",
+      "bbox": [
+        139.6623295,
+        35.7746718,
+        139.6753993,
+        35.7833866
+      ],
+      "pack": "plateau/53395533/building/flat.859d22b3909e.topo.json.br",
+      "count": 3731,
+      "height_max": 44.2
+    },
+    {
+      "mesh": "53395534",
+      "bbox": [
+        139.6747767,
+        35.774604,
+        139.6875591,
+        35.7834876
+      ],
+      "pack": "plateau/53395534/building/flat.a845a9447a05.topo.json.br",
+      "count": 2790,
+      "height_max": 69.8
+    },
+    {
+      "mesh": "53395535",
+      "bbox": [
+        139.6871667,
+        35.7746001,
+        139.7002487,
+        35.7835169
+      ],
+      "pack": "plateau/53395535/building/flat.25851eb90cca.topo.json.br",
+      "count": 2310,
+      "height_max": 53.8
+    },
+    {
+      "mesh": "53395536",
+      "bbox": [
+        139.6998184,
+        35.7746298,
+        139.7126179,
+        35.7834341
+      ],
+      "pack": "plateau/53395536/building/flat.48e8b6d7217a.topo.json.br",
+      "count": 1888,
+      "height_max": 63.8
+    },
+    {
+      "mesh": "53395537",
+      "bbox": [
+        139.7119712,
+        35.7748127,
+        139.7250288,
+        35.7834173
+      ],
+      "pack": "plateau/53395537/building/flat.b61053e00996.topo.json.br",
+      "count": 2908,
+      "height_max": 78.1
+    },
+    {
+      "mesh": "53395538",
+      "bbox": [
+        139.7248663,
+        35.7748793,
+        139.7377612,
+        35.7834246
+      ],
+      "pack": "plateau/53395538/building/flat.a4b019fa7101.topo.json.br",
+      "count": 5064,
+      "height_max": 119.8
+    },
+    {
+      "mesh": "53395539",
+      "bbox": [
+        139.7374149,
+        35.7749005,
+        139.7500916,
+        35.78344
+      ],
+      "pack": "plateau/53395539/building/flat.6fd5c6c8c13f.topo.json.br",
+      "count": 1012,
+      "height_max": 44.7
+    },
+    {
+      "mesh": "53395540",
+      "bbox": [
+        139.6274426,
+        35.7828168,
+        139.6376677,
+        35.7907791
+      ],
+      "pack": "plateau/53395540/building/flat.1c1749af27b6.topo.json.br",
+      "count": 1578,
+      "height_max": 36
+    },
+    {
+      "mesh": "53395541",
+      "bbox": [
+        139.6370621,
+        35.7829309,
+        139.6506179,
+        35.7916995
+      ],
+      "pack": "plateau/53395541/building/flat.30c2f60b611c.topo.json.br",
+      "count": 3449,
+      "height_max": 25.9
+    },
+    {
+      "mesh": "53395542",
+      "bbox": [
+        139.649628,
+        35.7830007,
+        139.6633056,
+        35.7916978
+      ],
+      "pack": "plateau/53395542/building/flat.adfe1ce44aa5.topo.json.br",
+      "count": 1305,
+      "height_max": 49.9
+    },
+    {
+      "mesh": "53395543",
+      "bbox": [
+        139.6619784,
+        35.7830621,
+        139.6761968,
+        35.7916993
+      ],
+      "pack": "plateau/53395543/building/flat.0fc93629c4e4.topo.json.br",
+      "count": 1597,
+      "height_max": 54.4
+    },
+    {
+      "mesh": "53395544",
+      "bbox": [
+        139.6744858,
+        35.7829138,
+        139.6878401,
+        35.791863
+      ],
+      "pack": "plateau/53395544/building/flat.6e4f4d696d59.topo.json.br",
+      "count": 2220,
+      "height_max": 45.1
+    },
+    {
+      "mesh": "53395545",
+      "bbox": [
+        139.6868957,
+        35.7825931,
+        139.6999991,
+        35.791815
+      ],
+      "pack": "plateau/53395545/building/flat.9035ebeb8a70.topo.json.br",
+      "count": 1729,
+      "height_max": 54.3
+    },
+    {
+      "mesh": "53395546",
+      "bbox": [
+        139.6993365,
+        35.7830973,
+        139.7124596,
+        35.7916721
+      ],
+      "pack": "plateau/53395546/building/flat.a2bcd873b4fe.topo.json.br",
+      "count": 1884,
+      "height_max": 67.3
+    },
+    {
+      "mesh": "53395547",
+      "bbox": [
+        139.7123127,
+        35.7831595,
+        139.7252216,
+        35.7890353
+      ],
+      "pack": "plateau/53395547/building/flat.dbc6a475cd9d.topo.json.br",
+      "count": 2032,
+      "height_max": 79.3
+    },
+    {
+      "mesh": "53395548",
+      "bbox": [
+        139.7249,
+        35.7832252,
+        139.7341706,
+        35.7876474
+      ],
+      "pack": "plateau/53395548/building/flat.c0f29979c541.topo.json.br",
+      "count": 923,
+      "height_max": 57.3
+    },
+    {
+      "mesh": "53395549",
+      "bbox": [
+        139.7464436,
+        35.7832585,
+        139.7500523,
+        35.788173
+      ],
+      "pack": "plateau/53395549/building/flat.6b2b637555c2.topo.json.br",
+      "count": 152,
+      "height_max": 30.6
+    },
+    {
+      "mesh": "53395551",
+      "bbox": [
+        139.6380086,
+        35.79141,
+        139.6500151,
+        35.7980873
+      ],
+      "pack": "plateau/53395551/building/flat.9a1c98fc86e2.topo.json.br",
+      "count": 561,
+      "height_max": 63.7
+    },
+    {
+      "mesh": "53395552",
+      "bbox": [
+        139.6496591,
+        35.791504,
+        139.6625533,
+        35.7991951
+      ],
+      "pack": "plateau/53395552/building/flat.eb6bb789cbac.topo.json.br",
+      "count": 895,
+      "height_max": 64
+    },
+    {
+      "mesh": "53395553",
+      "bbox": [
+        139.6622686,
+        35.7910772,
+        139.6751091,
+        35.7978638
+      ],
+      "pack": "plateau/53395553/building/flat.ef7c5bd4d56f.topo.json.br",
+      "count": 764,
+      "height_max": 51
+    },
+    {
+      "mesh": "53395554",
+      "bbox": [
+        139.6735459,
+        35.7913713,
+        139.6874969,
+        35.7984957
+      ],
+      "pack": "plateau/53395554/building/flat.e5358b1f8d42.topo.json.br",
+      "count": 780,
+      "height_max": 51.7
+    },
+    {
+      "mesh": "53395555",
+      "bbox": [
+        139.6871022,
+        35.791304,
+        139.7000729,
+        35.7995171
+      ],
+      "pack": "plateau/53395555/building/flat.726dd4d98820.topo.json.br",
+      "count": 1084,
+      "height_max": 101.2
+    },
+    {
+      "mesh": "53395556",
+      "bbox": [
+        139.6999096,
+        35.7915755,
+        139.7070923,
+        35.7933476
+      ],
+      "pack": "plateau/53395556/building/flat.7ec7bbc05c58.topo.json.br",
+      "count": 119,
+      "height_max": 71.3
+    },
+    {
+      "mesh": "53395600",
+      "bbox": [
+        139.749881,
+        35.7496442,
+        139.7625995,
+        35.7583934
+      ],
+      "pack": "plateau/53395600/building/flat.379bcbc19dea.topo.json.br",
+      "count": 3399,
+      "height_max": 45.4
+    },
+    {
+      "mesh": "53395601",
+      "bbox": [
+        139.7623625,
+        35.7496371,
+        139.7754931,
+        35.7582773
+      ],
+      "pack": "plateau/53395601/building/flat.fe32f0014bfa.topo.json.br",
+      "count": 1416,
+      "height_max": 73.1
+    },
+    {
+      "mesh": "53395602",
+      "bbox": [
+        139.7750617,
+        35.7497517,
+        139.7874974,
+        35.7557945
+      ],
+      "pack": "plateau/53395602/building/flat.03466acb6eee.topo.json.br",
+      "count": 1353,
+      "height_max": 76
+    },
+    {
+      "mesh": "53395603",
+      "bbox": [
+        139.7871649,
+        35.7496486,
+        139.8002035,
+        35.7579611
+      ],
+      "pack": "plateau/53395603/building/flat.1f8c07c40fef.topo.json.br",
+      "count": 4628,
+      "height_max": 46
+    },
+    {
+      "mesh": "53395604",
+      "bbox": [
+        139.7998287,
+        35.7487883,
+        139.8125034,
+        35.7578652
+      ],
+      "pack": "plateau/53395604/building/flat.9d66c4ddd10d.topo.json.br",
+      "count": 3379,
+      "height_max": 98.8
+    },
+    {
+      "mesh": "53395605",
+      "bbox": [
+        139.8123349,
+        35.7491227,
+        139.8250743,
+        35.7583993
+      ],
+      "pack": "plateau/53395605/building/flat.76818be1a614.topo.json.br",
+      "count": 1783,
+      "height_max": 43.1
+    },
+    {
+      "mesh": "53395606",
+      "bbox": [
+        139.8246973,
+        35.7497611,
+        139.8377506,
+        35.758444
+      ],
+      "pack": "plateau/53395606/building/flat.6d5d40481efd.topo.json.br",
+      "count": 4768,
+      "height_max": 41.9
+    },
+    {
+      "mesh": "53395607",
+      "bbox": [
+        139.8371548,
+        35.7497336,
+        139.8503656,
+        35.7584626
+      ],
+      "pack": "plateau/53395607/building/flat.f04b20939a73.topo.json.br",
+      "count": 3164,
+      "height_max": 44.7
+    },
+    {
+      "mesh": "53395608",
+      "bbox": [
+        139.8496694,
+        35.7496724,
+        139.8624985,
+        35.7586328
+      ],
+      "pack": "plateau/53395608/building/flat.0a21790f4bdd.topo.json.br",
+      "count": 2980,
+      "height_max": 60.1
+    },
+    {
+      "mesh": "53395609",
+      "bbox": [
+        139.8622976,
+        35.7498636,
+        139.8752013,
+        35.7584082
+      ],
+      "pack": "plateau/53395609/building/flat.620684ba45c3.topo.json.br",
+      "count": 4550,
+      "height_max": 45
+    },
+    {
+      "mesh": "53395610",
+      "bbox": [
+        139.749528,
+        35.758158,
+        139.7623629,
+        35.7667832
+      ],
+      "pack": "plateau/53395610/building/flat.4b69e58def2f.topo.json.br",
+      "count": 1320,
+      "height_max": 47.9
+    },
+    {
+      "mesh": "53395611",
+      "bbox": [
+        139.7630024,
+        35.7583739,
+        139.7755001,
+        35.7668887
+      ],
+      "pack": "plateau/53395611/building/flat.0558d3f8091a.topo.json.br",
+      "count": 1833,
+      "height_max": 43.7
+    },
+    {
+      "mesh": "53395612",
+      "bbox": [
+        139.7747542,
+        35.7587417,
+        139.7875843,
+        35.7667368
+      ],
+      "pack": "plateau/53395612/building/flat.c2e20d1adceb.topo.json.br",
+      "count": 4373,
+      "height_max": 27.4
+    },
+    {
+      "mesh": "53395613",
+      "bbox": [
+        139.7872444,
+        35.7607945,
+        139.7999996,
+        35.7667379
+      ],
+      "pack": "plateau/53395613/building/flat.76099d0747db.topo.json.br",
+      "count": 3419,
+      "height_max": 32.1
+    },
+    {
+      "mesh": "53395614",
+      "bbox": [
+        139.799893,
+        35.7583025,
+        139.8131775,
+        35.7667671
+      ],
+      "pack": "plateau/53395614/building/flat.348f8428fbcf.topo.json.br",
+      "count": 3747,
+      "height_max": 45.4
+    },
+    {
+      "mesh": "53395615",
+      "bbox": [
+        139.8121452,
+        35.7576527,
+        139.8250419,
+        35.7670722
+      ],
+      "pack": "plateau/53395615/building/flat.081bd50e9139.topo.json.br",
+      "count": 3274,
+      "height_max": 65.3
+    },
+    {
+      "mesh": "53395616",
+      "bbox": [
+        139.8236131,
+        35.7580284,
+        139.8377303,
+        35.7669992
+      ],
+      "pack": "plateau/53395616/building/flat.6553c97668ee.topo.json.br",
+      "count": 3390,
+      "height_max": 46
+    },
+    {
+      "mesh": "53395617",
+      "bbox": [
+        139.8373196,
+        35.7580922,
+        139.8500452,
+        35.7669184
+      ],
+      "pack": "plateau/53395617/building/flat.3ad4fb9c8dd5.topo.json.br",
+      "count": 3589,
+      "height_max": 59.8
+    },
+    {
+      "mesh": "53395618",
+      "bbox": [
+        139.8497363,
+        35.7579285,
+        139.86253,
+        35.7667938
+      ],
+      "pack": "plateau/53395618/building/flat.6fcdd7913b3c.topo.json.br",
+      "count": 3063,
+      "height_max": 54.7
+    },
+    {
+      "mesh": "53395619",
+      "bbox": [
+        139.8622057,
+        35.7580927,
+        139.8751822,
+        35.766738
+      ],
+      "pack": "plateau/53395619/building/flat.cb2255972d80.topo.json.br",
+      "count": 3177,
+      "height_max": 46
+    },
+    {
+      "mesh": "53395620",
+      "bbox": [
+        139.7494673,
+        35.7661168,
+        139.7627402,
+        35.7751444
+      ],
+      "pack": "plateau/53395620/building/flat.ad8064c07eb3.topo.json.br",
+      "count": 888,
+      "height_max": 54.8
+    },
+    {
+      "mesh": "53395621",
+      "bbox": [
+        139.7623344,
+        35.7654389,
+        139.7751212,
+        35.7750575
+      ],
+      "pack": "plateau/53395621/building/flat.4af53303b626.topo.json.br",
+      "count": 2906,
+      "height_max": 45.2
+    },
+    {
+      "mesh": "53395622",
+      "bbox": [
+        139.7747568,
+        35.766377,
+        139.7879119,
+        35.7750851
+      ],
+      "pack": "plateau/53395622/building/flat.c31b307dcaf5.topo.json.br",
+      "count": 5209,
+      "height_max": 63.7
+    },
+    {
+      "mesh": "53395623",
+      "bbox": [
+        139.7873445,
+        35.7665413,
+        139.8003119,
+        35.7750661
+      ],
+      "pack": "plateau/53395623/building/flat.0b63063fca1b.topo.json.br",
+      "count": 4638,
+      "height_max": 54.1
+    },
+    {
+      "mesh": "53395624",
+      "bbox": [
+        139.7997272,
+        35.7663931,
+        139.8127309,
+        35.775114
+      ],
+      "pack": "plateau/53395624/building/flat.7e87991ca956.topo.json.br",
+      "count": 3374,
+      "height_max": 65.7
+    },
+    {
+      "mesh": "53395625",
+      "bbox": [
+        139.8122496,
+        35.7663975,
+        139.8251487,
+        35.7751355
+      ],
+      "pack": "plateau/53395625/building/flat.15b2920f818e.topo.json.br",
+      "count": 3235,
+      "height_max": 40.2
+    },
+    {
+      "mesh": "53395626",
+      "bbox": [
+        139.8246926,
+        35.7664536,
+        139.837541,
+        35.7751118
+      ],
+      "pack": "plateau/53395626/building/flat.9fdcdeed706f.topo.json.br",
+      "count": 2913,
+      "height_max": 51.5
+    },
+    {
+      "mesh": "53395627",
+      "bbox": [
+        139.8372612,
+        35.7657479,
+        139.8499974,
+        35.7752442
+      ],
+      "pack": "plateau/53395627/building/flat.671ab85b90cb.topo.json.br",
+      "count": 3469,
+      "height_max": 47.1
+    },
+    {
+      "mesh": "53395628",
+      "bbox": [
+        139.8497816,
+        35.7659033,
+        139.86328,
+        35.7750823
+      ],
+      "pack": "plateau/53395628/building/flat.df3bc449174c.topo.json.br",
+      "count": 2672,
+      "height_max": 127
+    },
+    {
+      "mesh": "53395629",
+      "bbox": [
+        139.8622939,
+        35.7664565,
+        139.8751126,
+        35.775143
+      ],
+      "pack": "plateau/53395629/building/flat.4613265ef9a1.topo.json.br",
+      "count": 2953,
+      "height_max": 130.8
+    },
+    {
+      "mesh": "53395630",
+      "bbox": [
+        139.7493962,
+        35.7748085,
+        139.7625305,
+        35.7833946
+      ],
+      "pack": "plateau/53395630/building/flat.d660fb9d94c4.topo.json.br",
+      "count": 3356,
+      "height_max": 32
+    },
+    {
+      "mesh": "53395631",
+      "bbox": [
+        139.7623077,
+        35.7747894,
+        139.7752215,
+        35.7835626
+      ],
+      "pack": "plateau/53395631/building/flat.c910ca785028.topo.json.br",
+      "count": 2352,
+      "height_max": 44
+    },
+    {
+      "mesh": "53395632",
+      "bbox": [
+        139.7748339,
+        35.7737748,
+        139.7875632,
+        35.7833684
+      ],
+      "pack": "plateau/53395632/building/flat.813fd586455f.topo.json.br",
+      "count": 3834,
+      "height_max": 45.2
+    },
+    {
+      "mesh": "53395633",
+      "bbox": [
+        139.7867871,
+        35.7743373,
+        139.8002895,
+        35.7834314
+      ],
+      "pack": "plateau/53395633/building/flat.74c44ed32d95.topo.json.br",
+      "count": 3900,
+      "height_max": 63.4
+    },
+    {
+      "mesh": "53395634",
+      "bbox": [
+        139.7998764,
+        35.77467,
+        139.8126348,
+        35.7833821
+      ],
+      "pack": "plateau/53395634/building/flat.b32f470069cf.topo.json.br",
+      "count": 3597,
+      "height_max": 45.8
+    },
+    {
+      "mesh": "53395635",
+      "bbox": [
+        139.8120723,
+        35.7747698,
+        139.8250506,
+        35.7834805
+      ],
+      "pack": "plateau/53395635/building/flat.7b2b748f0d74.topo.json.br",
+      "count": 2633,
+      "height_max": 42.4
+    },
+    {
+      "mesh": "53395636",
+      "bbox": [
+        139.8242209,
+        35.774827,
+        139.8375446,
+        35.783349
+      ],
+      "pack": "plateau/53395636/building/flat.d68444cd0cf1.topo.json.br",
+      "count": 2294,
+      "height_max": 38.8
+    },
+    {
+      "mesh": "53395637",
+      "bbox": [
+        139.8368028,
+        35.7748166,
+        139.8501629,
+        35.78354
+      ],
+      "pack": "plateau/53395637/building/flat.6b0090f63f8d.topo.json.br",
+      "count": 2624,
+      "height_max": 49.8
+    },
+    {
+      "mesh": "53395638",
+      "bbox": [
+        139.8496497,
+        35.7745107,
+        139.862857,
+        35.7834418
+      ],
+      "pack": "plateau/53395638/building/flat.59e3da6a08ab.topo.json.br",
+      "count": 3296,
+      "height_max": 43
+    },
+    {
+      "mesh": "53395639",
+      "bbox": [
+        139.8620195,
+        35.7744488,
+        139.8749988,
+        35.783412
+      ],
+      "pack": "plateau/53395639/building/flat.070792e6dfac.topo.json.br",
+      "count": 2920,
+      "height_max": 46.7
+    },
+    {
+      "mesh": "53395640",
+      "bbox": [
+        139.7499386,
+        35.783149,
+        139.7626463,
+        35.7918697
+      ],
+      "pack": "plateau/53395640/building/flat.5c2b21e86357.topo.json.br",
+      "count": 2268,
+      "height_max": 31.6
+    },
+    {
+      "mesh": "53395641",
+      "bbox": [
+        139.7623362,
+        35.7831833,
+        139.7751282,
+        35.7917332
+      ],
+      "pack": "plateau/53395641/building/flat.d4391ba2b64d.topo.json.br",
+      "count": 3428,
+      "height_max": 37
+    },
+    {
+      "mesh": "53395642",
+      "bbox": [
+        139.77464,
+        35.7831564,
+        139.7876663,
+        35.791755
+      ],
+      "pack": "plateau/53395642/building/flat.0520970622c7.topo.json.br",
+      "count": 3490,
+      "height_max": 61.8
+    },
+    {
+      "mesh": "53395643",
+      "bbox": [
+        139.787219,
+        35.7832562,
+        139.8000835,
+        35.7917357
+      ],
+      "pack": "plateau/53395643/building/flat.e7204319dda7.topo.json.br",
+      "count": 3289,
+      "height_max": 32.4
+    },
+    {
+      "mesh": "53395644",
+      "bbox": [
+        139.7997549,
+        35.7827954,
+        139.8126524,
+        35.791748
+      ],
+      "pack": "plateau/53395644/building/flat.c84db9e0e5be.topo.json.br",
+      "count": 3226,
+      "height_max": 42.5
+    },
+    {
+      "mesh": "53395645",
+      "bbox": [
+        139.8120588,
+        35.783131,
+        139.8251133,
+        35.791855
+      ],
+      "pack": "plateau/53395645/building/flat.e6ad99b89c9f.topo.json.br",
+      "count": 3580,
+      "height_max": 49.5
+    },
+    {
+      "mesh": "53395646",
+      "bbox": [
+        139.8246622,
+        35.7832293,
+        139.837519,
+        35.791858
+      ],
+      "pack": "plateau/53395646/building/flat.92896b518360.topo.json.br",
+      "count": 3729,
+      "height_max": 27.7
+    },
+    {
+      "mesh": "53395647",
+      "bbox": [
+        139.8371983,
+        35.7831299,
+        139.850143,
+        35.7917329
+      ],
+      "pack": "plateau/53395647/building/flat.cd61e145a1ca.topo.json.br",
+      "count": 3089,
+      "height_max": 29.5
+    },
+    {
+      "mesh": "53395648",
+      "bbox": [
+        139.8498379,
+        35.7831247,
+        139.8626004,
+        35.7917626
+      ],
+      "pack": "plateau/53395648/building/flat.9b70c8e3afa8.topo.json.br",
+      "count": 3944,
+      "height_max": 31
+    },
+    {
+      "mesh": "53395649",
+      "bbox": [
+        139.8622074,
+        35.7832816,
+        139.8703631,
+        35.7917366
+      ],
+      "pack": "plateau/53395649/building/flat.c905870cb2a7.topo.json.br",
+      "count": 1654,
+      "height_max": 18.5
+    },
+    {
+      "mesh": "53395650",
+      "bbox": [
+        139.7572416,
+        35.7916065,
+        139.7626562,
+        35.8001583
+      ],
+      "pack": "plateau/53395650/building/flat.b03a6ee16a9d.topo.json.br",
+      "count": 526,
+      "height_max": 55.3
+    },
+    {
+      "mesh": "53395651",
+      "bbox": [
+        139.7623309,
+        35.7913827,
+        139.7750171,
+        35.8001061
+      ],
+      "pack": "plateau/53395651/building/flat.9fe241182d01.topo.json.br",
+      "count": 1201,
+      "height_max": 36.6
+    },
+    {
+      "mesh": "53395652",
+      "bbox": [
+        139.7749146,
+        35.791508,
+        139.7876229,
+        35.8000719
+      ],
+      "pack": "plateau/53395652/building/flat.64a3765030a5.topo.json.br",
+      "count": 3858,
+      "height_max": 38.2
+    },
+    {
+      "mesh": "53395653",
+      "bbox": [
+        139.7871492,
+        35.7915503,
+        139.8000619,
+        35.8000236
+      ],
+      "pack": "plateau/53395653/building/flat.8d93b331367c.topo.json.br",
+      "count": 2997,
+      "height_max": 90.5
+    },
+    {
+      "mesh": "53395654",
+      "bbox": [
+        139.799656,
+        35.7913149,
+        139.8126092,
+        35.8001778
+      ],
+      "pack": "plateau/53395654/building/flat.0949aa799321.topo.json.br",
+      "count": 3060,
+      "height_max": 40.8
+    },
+    {
+      "mesh": "53395655",
+      "bbox": [
+        139.8122475,
+        35.7914767,
+        139.8259788,
+        35.8000589
+      ],
+      "pack": "plateau/53395655/building/flat.f24f1d95439c.topo.json.br",
+      "count": 2337,
+      "height_max": 32
+    },
+    {
+      "mesh": "53395656",
+      "bbox": [
+        139.824887,
+        35.7916227,
+        139.8377235,
+        35.8000354
+      ],
+      "pack": "plateau/53395656/building/flat.36ad17910656.topo.json.br",
+      "count": 1659,
+      "height_max": 42.6
+    },
+    {
+      "mesh": "53395657",
+      "bbox": [
+        139.8371928,
+        35.7915167,
+        139.8501085,
+        35.8000564
+      ],
+      "pack": "plateau/53395657/building/flat.55dd44d37799.topo.json.br",
+      "count": 2422,
+      "height_max": 49.3
+    },
+    {
+      "mesh": "53395658",
+      "bbox": [
+        139.849912,
+        35.7915446,
+        139.8626706,
+        35.7958179
+      ],
+      "pack": "plateau/53395658/building/flat.5d4a8024877f.topo.json.br",
+      "count": 291,
+      "height_max": 28.9
+    },
+    {
+      "mesh": "53395659",
+      "bbox": [
+        139.8623839,
+        35.7915944,
+        139.8716445,
+        35.7964814
+      ],
+      "pack": "plateau/53395659/building/flat.ba462c2836e2.topo.json.br",
+      "count": 249,
+      "height_max": 17.3
+    },
+    {
+      "mesh": "53395660",
+      "bbox": [
+        139.7507899,
+        35.7997827,
+        139.762553,
+        35.8084648
+      ],
+      "pack": "plateau/53395660/building/flat.2834e145c5c1.topo.json.br",
+      "count": 1041,
+      "height_max": 42.5
+    },
+    {
+      "mesh": "53395661",
+      "bbox": [
+        139.7620976,
+        35.7995494,
+        139.7751086,
+        35.8084676
+      ],
+      "pack": "plateau/53395661/building/flat.622c1cc5fc9b.topo.json.br",
+      "count": 2260,
+      "height_max": 41.3
+    },
+    {
+      "mesh": "53395662",
+      "bbox": [
+        139.7748036,
+        35.799883,
+        139.7876738,
+        35.8084132
+      ],
+      "pack": "plateau/53395662/building/flat.cd27be733e80.topo.json.br",
+      "count": 3746,
+      "height_max": 20.5
+    },
+    {
+      "mesh": "53395663",
+      "bbox": [
+        139.7873051,
+        35.7996717,
+        139.8002809,
+        35.8067824
+      ],
+      "pack": "plateau/53395663/building/flat.95b091f85e27.topo.json.br",
+      "count": 1768,
+      "height_max": 46.7
+    },
+    {
+      "mesh": "53395664",
+      "bbox": [
+        139.7998394,
+        35.7996908,
+        139.8125919,
+        35.8084754
+      ],
+      "pack": "plateau/53395664/building/flat.34774c5663e3.topo.json.br",
+      "count": 2760,
+      "height_max": 54.1
+    },
+    {
+      "mesh": "53395665",
+      "bbox": [
+        139.8121412,
+        35.7998523,
+        139.8218301,
+        35.808425
+      ],
+      "pack": "plateau/53395665/building/flat.7307f4a853d2.topo.json.br",
+      "count": 1941,
+      "height_max": 26.4
+    },
+    {
+      "mesh": "53395667",
+      "bbox": [
+        139.8374459,
+        35.7997708,
+        139.8399714,
+        35.8006637
+      ],
+      "pack": "plateau/53395667/building/flat.f901f1e9c1e5.topo.json.br",
+      "count": 42,
+      "height_max": 16.9
+    },
+    {
+      "mesh": "53395670",
+      "bbox": [
+        139.7503932,
+        35.808215,
+        139.7626383,
+        35.8131224
+      ],
+      "pack": "plateau/53395670/building/flat.bdb328da52b4.topo.json.br",
+      "count": 653,
+      "height_max": 29.4
+    },
+    {
+      "mesh": "53395671",
+      "bbox": [
+        139.7620926,
+        35.8082153,
+        139.7751117,
+        35.8168213
+      ],
+      "pack": "plateau/53395671/building/flat.3b470c8a3d7a.topo.json.br",
+      "count": 3409,
+      "height_max": 44.6
+    },
+    {
+      "mesh": "53395672",
+      "bbox": [
+        139.7747669,
+        35.8082694,
+        139.779221,
+        35.8129578
+      ],
+      "pack": "plateau/53395672/building/flat.2a2e4bdb347e.topo.json.br",
+      "count": 632,
+      "height_max": 13
+    },
+    {
+      "mesh": "53395674",
+      "bbox": [
+        139.8022657,
+        35.8083188,
+        139.8053947,
+        35.8085434
+      ],
+      "pack": "plateau/53395674/building/flat.2dae081341d3.topo.json.br",
+      "count": 22,
+      "height_max": 10
+    },
+    {
+      "mesh": "53395675",
+      "bbox": [
+        139.8142042,
+        35.8082424,
+        139.8258225,
+        35.81472
+      ],
+      "pack": "plateau/53395675/building/flat.20a36f6f6a11.topo.json.br",
+      "count": 579,
+      "height_max": 41.2
+    },
+    {
+      "mesh": "53395676",
+      "bbox": [
+        139.8251912,
+        35.8107681,
+        139.8263261,
+        35.8132407
+      ],
+      "pack": "plateau/53395676/building/flat.df8987048c42.topo.json.br",
+      "count": 12,
+      "height_max": 15.6
+    },
+    {
+      "mesh": "53395681",
+      "bbox": [
+        139.7656984,
+        35.8165371,
+        139.7719583,
+        35.8174244
+      ],
+      "pack": "plateau/53395681/building/flat.d4ed7755e3c4.topo.json.br",
+      "count": 210,
+      "height_max": 30.1
+    },
+    {
+      "mesh": "53395700",
+      "bbox": [
+        139.8748118,
+        35.7494689,
+        139.8860707,
+        35.7584551
+      ],
+      "pack": "plateau/53395700/building/flat.86dd31faad4b.topo.json.br",
+      "count": 2877,
+      "height_max": 43.7
+    },
+    {
+      "mesh": "53395710",
+      "bbox": [
+        139.8742356,
+        35.7580674,
+        139.8804831,
+        35.766723
+      ],
+      "pack": "plateau/53395710/building/flat.365252e97842.topo.json.br",
+      "count": 632,
+      "height_max": 23.7
+    },
+    {
+      "mesh": "53395720",
+      "bbox": [
+        139.8744071,
+        35.7661668,
+        139.8812473,
+        35.7750773
+      ],
+      "pack": "plateau/53395720/building/flat.be6cfe1b19d4.topo.json.br",
+      "count": 1305,
+      "height_max": 41.1
+    },
+    {
+      "mesh": "53395730",
+      "bbox": [
+        139.8748286,
+        35.7748843,
+        139.887544,
+        35.7829868
+      ],
+      "pack": "plateau/53395730/building/flat.bcd84edc09dc.topo.json.br",
+      "count": 2028,
+      "height_max": 41.8
+    },
+    {
+      "mesh": "53395731",
+      "bbox": [
+        139.887354,
+        35.778567,
+        139.8904477,
+        35.7816737
+      ],
+      "pack": "plateau/53395731/building/flat.0fb42ee6615f.topo.json.br",
+      "count": 91,
+      "height_max": 15.9
+    }
+  ]
+}

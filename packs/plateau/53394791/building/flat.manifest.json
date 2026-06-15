@@ -1,0 +1,41 @@
+{
+  "schema": "geo-area-pack/1",
+  "ward": "53394791",
+  "layer": "building",
+  "detail": "flat",
+  "source": {
+    "name": "Project PLATEAU",
+    "license": "ODbL-1.0",
+    "attribution": "出典：国土交通省 PLATEAU（加工して作成）",
+    "input_file": "53394791_2 CityGML (EPSG:6697)",
+    "input_provider": "MLIT Project PLATEAU — 2020 tokyo23ku CityGML",
+    "input_date": "2020"
+  },
+  "pipeline": {
+    "simplify": {
+      "method": "keep-shapes (100% retained), planar; quantization carries the byte reduction",
+      "percentage": "100%"
+    },
+    "quantization": 100000,
+    "format": "topojson",
+    "compression": {
+      "codec": "brotli",
+      "quality": 11
+    }
+  },
+  "tools": {},
+  "artifact": {
+    "file": "flat.0dc3d24dd456.topo.json.br",
+    "file_raw": "flat.topo.json",
+    "bytes_topojson": 374476,
+    "bytes_brotli": 91842,
+    "hash_algo": "sha256:12",
+    "hash_topojson": "31a5bfeae211",
+    "hash_brotli": "0dc3d24dd456"
+  },
+  "attribution_lines": [
+    "出典：国土交通省 PLATEAU（加工して作成）"
+  ],
+  "requires_share_alike": true,
+  "generated_at": "2026-06-15T04:43:09.924Z"
+}

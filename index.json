@@ -5,8 +5,8 @@
   "license": "ODbL-1.0",
   "attribution": "© OpenStreetMap contributors",
   "format": "topojson",
-  "url_pattern": "https://cdn.jsdelivr.net/gh/hwcharlton/geo-data@v1.1.0/packs/{ward}/{layer}/{tier}.topo.json",
-  "manifest_pattern": "https://cdn.jsdelivr.net/gh/hwcharlton/geo-data@v1.1.0/packs/{ward}/{layer}/{tier}.manifest.json",
+  "url_pattern": "https://cdn.jsdelivr.net/gh/hwcharlton/geo-data@v1.2.0/packs/{ward}/{layer}/{tier}.topo.json",
+  "manifest_pattern": "https://cdn.jsdelivr.net/gh/hwcharlton/geo-data@v1.2.0/packs/{ward}/{layer}/{tier}.manifest.json",
   "tiers": [
     "high",
     "med",
@@ -520,5 +520,18 @@
       "tier": "flat",
       "format": "served brotli-only as the manifest artifact.file (<tier>.<hash>.topo.json.br) — decode client-side; the raw .topo.json is not published (dense wards exceed jsDelivr 20 MB). Each feature carries a numeric `height` (m): OSM height/levels where tagged (~6-9%), else a 9 m default."
     }
+  },
+  "plateau": {
+    "description": "Authoritative building tier — 国土交通省 Project PLATEAU (2020 tokyo23ku CityGML, LOD1): footprints (bldg:lod0RoofEdge) + measuredHeight, 1,410,692 buildings across Tokyo's 23 special wards. SEPARATE source and licence from the OSM tier above. Split into 572 per-1km-mesh packs (Japanese 3rd-level mesh) for viewport-culled 3D rendering — a single all-wards pack would far exceed deck.gl's ~100k-polygon frame budget.",
+    "source": "Project PLATEAU (国土交通省 / MLIT)",
+    "license": "ODbL-1.0",
+    "attribution": "出典：国土交通省 PLATEAU（加工して作成）",
+    "index": "https://cdn.jsdelivr.net/gh/hwcharlton/geo-data@v1.2.0/packs/plateau/index.json",
+    "url_pattern": "https://cdn.jsdelivr.net/gh/hwcharlton/geo-data@v1.2.0/packs/{pack}",
+    "tier": "flat",
+    "mesh": "Japanese 3rd-level (~1 km, 8-digit code)",
+    "buildings": 1410692,
+    "tallest_m": 332.9,
+    "format": "served brotli-only (<tier>.<hash>.topo.json.br) — decode client-side; raw .topo.json not published. Each building carries its PLATEAU measuredHeight (m). Resolve packs.plateau/index.json -> meshes[].pack against the geo-data base URL."
   }
 }
